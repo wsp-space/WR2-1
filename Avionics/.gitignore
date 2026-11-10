@@ -1,0 +1,18 @@
+# ===== KiCad =====
+# Automatic backups (zip)
+*-backups/
+
+# Local history (KiCad 9, nested git repository)
+.history
+
+# Lock files
+*.lck
+
+# Per-user project settings (window layout, visible layers, etc.)
+*.kicad_prl
+
+# Autosave / cache
+_autosave-*
+\#auto_saved_files#
+fp-info-cache
+*-cache.lib
