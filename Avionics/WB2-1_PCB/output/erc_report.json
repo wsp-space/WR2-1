@@ -1,7 +1,7 @@
 {
     "$schema": "https://schemas.kicad.org/erc.v1.json",
     "coordinate_units": "mm",
-    "date": "2026-11-16T20:00:36",
+    "date": "2026-11-18T12:20:20",
     "ignored_checks": [
         {
             "description": "Global label only appears once in the schematic",
@@ -365,449 +365,14 @@
                         {
                             "description": "Symbol #PWR031 Pin 1 [Power input, Line]",
                             "pos": {
-                                "x": 4.5466,
-                                "y": 0.5842
+                                "x": 3.6703,
+                                "y": 0.5461
                             },
                             "uuid": "2c9741dd-cc8d-44db-8ce0-899ef82e79fa"
                         }
                     ],
                     "severity": "error",
                     "type": "power_pin_not_driven"
-                },
-                {
-                    "description": "Pin not connected",
-                    "items": [
-                        {
-                            "description": "Symbol U12 Pin 63 [EECS, Output, Line]",
-                            "pos": {
-                                "x": 4.953,
-                                "y": 2.5654
-                            },
-                            "uuid": "10db18de-2741-40b3-909c-8c289182b51a"
-                        }
-                    ],
-                    "severity": "error",
-                    "type": "pin_not_connected"
-                },
-                {
-                    "description": "Pin not connected",
-                    "items": [
-                        {
-                            "description": "Symbol U12 Pin 62 [EECLK, Output, Line]",
-                            "pos": {
-                                "x": 4.953,
-                                "y": 2.5908
-                            },
-                            "uuid": "47801084-5093-425c-b7c8-382eab53d30a"
-                        }
-                    ],
-                    "severity": "error",
-                    "type": "pin_not_connected"
-                },
-                {
-                    "description": "Pin not connected",
-                    "items": [
-                        {
-                            "description": "Symbol U12 Pin 61 [EEDATA, Bidirectional, Line]",
-                            "pos": {
-                                "x": 4.953,
-                                "y": 2.6162
-                            },
-                            "uuid": "c22d893e-fb03-47ba-9687-7a72320be48e"
-                        }
-                    ],
-                    "severity": "error",
-                    "type": "pin_not_connected"
-                },
-                {
-                    "description": "Pin not connected",
-                    "items": [
-                        {
-                            "description": "Symbol U12 Pin 18 [ADBUS2, Bidirectional, Line]",
-                            "pos": {
-                                "x": 5.3086,
-                                "y": 2.3114
-                            },
-                            "uuid": "3c149032-8a6c-4bf8-b379-dbf1fbb08f76"
-                        }
-                    ],
-                    "severity": "error",
-                    "type": "pin_not_connected"
-                },
-                {
-                    "description": "Pin not connected",
-                    "items": [
-                        {
-                            "description": "Symbol U12 Pin 19 [ADBUS3, Bidirectional, Line]",
-                            "pos": {
-                                "x": 5.3086,
-                                "y": 2.3368
-                            },
-                            "uuid": "4306ae4e-7500-474d-bec0-1e5ccf13663e"
-                        }
-                    ],
-                    "severity": "error",
-                    "type": "pin_not_connected"
-                },
-                {
-                    "description": "Pin not connected",
-                    "items": [
-                        {
-                            "description": "Symbol U12 Pin 21 [ADBUS4, Bidirectional, Line]",
-                            "pos": {
-                                "x": 5.3086,
-                                "y": 2.3622
-                            },
-                            "uuid": "5bb2096b-8c2b-4cb2-b583-e005487d7550"
-                        }
-                    ],
-                    "severity": "error",
-                    "type": "pin_not_connected"
-                },
-                {
-                    "description": "Pin not connected",
-                    "items": [
-                        {
-                            "description": "Symbol U12 Pin 22 [ADBUS5, Bidirectional, Line]",
-                            "pos": {
-                                "x": 5.3086,
-                                "y": 2.3876
-                            },
-                            "uuid": "05e5bfdd-c881-4b57-943a-0e700049bd80"
-                        }
-                    ],
-                    "severity": "error",
-                    "type": "pin_not_connected"
-                },
-                {
-                    "description": "Pin not connected",
-                    "items": [
-                        {
-                            "description": "Symbol U12 Pin 23 [ADBUS6, Bidirectional, Line]",
-                            "pos": {
-                                "x": 5.3086,
-                                "y": 2.413
-                            },
-                            "uuid": "ea412ba7-701e-43b9-8237-12712a3432bb"
-                        }
-                    ],
-                    "severity": "error",
-                    "type": "pin_not_connected"
-                },
-                {
-                    "description": "Pin not connected",
-                    "items": [
-                        {
-                            "description": "Symbol U12 Pin 24 [ADBUS7, Bidirectional, Line]",
-                            "pos": {
-                                "x": 5.3086,
-                                "y": 2.4384
-                            },
-                            "uuid": "13deaf8a-362d-480c-9a49-cb021ca3b87a"
-                        }
-                    ],
-                    "severity": "error",
-                    "type": "pin_not_connected"
-                },
-                {
-                    "description": "Pin not connected",
-                    "items": [
-                        {
-                            "description": "Symbol U12 Pin 28 [BDBUS2, Bidirectional, Line]",
-                            "pos": {
-                                "x": 5.3086,
-                                "y": 2.54
-                            },
-                            "uuid": "5dc34e99-3145-40ec-bca2-2ec321642812"
-                        }
-                    ],
-                    "severity": "error",
-                    "type": "pin_not_connected"
-                },
-                {
-                    "description": "Pin not connected",
-                    "items": [
-                        {
-                            "description": "Symbol U12 Pin 29 [BDBUS3, Bidirectional, Line]",
-                            "pos": {
-                                "x": 5.3086,
-                                "y": 2.5654
-                            },
-                            "uuid": "7bc5cccb-0bb8-4a5e-8c37-8929c4beab46"
-                        }
-                    ],
-                    "severity": "error",
-                    "type": "pin_not_connected"
-                },
-                {
-                    "description": "Pin not connected",
-                    "items": [
-                        {
-                            "description": "Symbol U12 Pin 30 [BDBUS4, Bidirectional, Line]",
-                            "pos": {
-                                "x": 5.3086,
-                                "y": 2.5908
-                            },
-                            "uuid": "4cfecb16-ae9b-462e-a75e-38b9c2f9de61"
-                        }
-                    ],
-                    "severity": "error",
-                    "type": "pin_not_connected"
-                },
-                {
-                    "description": "Pin not connected",
-                    "items": [
-                        {
-                            "description": "Symbol U12 Pin 32 [BDBUS5, Bidirectional, Line]",
-                            "pos": {
-                                "x": 5.3086,
-                                "y": 2.6162
-                            },
-                            "uuid": "e5e686e3-a7f0-4b66-838c-666d086ef9d2"
-                        }
-                    ],
-                    "severity": "error",
-                    "type": "pin_not_connected"
-                },
-                {
-                    "description": "Pin not connected",
-                    "items": [
-                        {
-                            "description": "Symbol U12 Pin 33 [BDBUS6, Bidirectional, Line]",
-                            "pos": {
-                                "x": 5.3086,
-                                "y": 2.6416
-                            },
-                            "uuid": "9bda4cec-c3ac-48ff-9ebc-fbcf09443f88"
-                        }
-                    ],
-                    "severity": "error",
-                    "type": "pin_not_connected"
-                },
-                {
-                    "description": "Pin not connected",
-                    "items": [
-                        {
-                            "description": "Symbol U12 Pin 34 [BDBUS7, Bidirectional, Line]",
-                            "pos": {
-                                "x": 5.3086,
-                                "y": 2.667
-                            },
-                            "uuid": "02596687-627d-4438-b11e-6c664196a55b"
-                        }
-                    ],
-                    "severity": "error",
-                    "type": "pin_not_connected"
-                },
-                {
-                    "description": "Pin not connected",
-                    "items": [
-                        {
-                            "description": "Symbol U12 Pin 40 [CDBUS2, Bidirectional, Line]",
-                            "pos": {
-                                "x": 5.3086,
-                                "y": 2.7686
-                            },
-                            "uuid": "3f632494-3bce-4556-b7a7-5fa4ef4d3cd1"
-                        }
-                    ],
-                    "severity": "error",
-                    "type": "pin_not_connected"
-                },
-                {
-                    "description": "Pin not connected",
-                    "items": [
-                        {
-                            "description": "Symbol U12 Pin 41 [CDBUS3, Bidirectional, Line]",
-                            "pos": {
-                                "x": 5.3086,
-                                "y": 2.794
-                            },
-                            "uuid": "f57e0981-a233-4605-8b03-4c21ce916d42"
-                        }
-                    ],
-                    "severity": "error",
-                    "type": "pin_not_connected"
-                },
-                {
-                    "description": "Pin not connected",
-                    "items": [
-                        {
-                            "description": "Symbol U12 Pin 43 [CDBUS4, Bidirectional, Line]",
-                            "pos": {
-                                "x": 5.3086,
-                                "y": 2.8194
-                            },
-                            "uuid": "50e763a6-ddb5-4556-ace2-97cec99f3418"
-                        }
-                    ],
-                    "severity": "error",
-                    "type": "pin_not_connected"
-                },
-                {
-                    "description": "Pin not connected",
-                    "items": [
-                        {
-                            "description": "Symbol U12 Pin 44 [CDBUS5, Bidirectional, Line]",
-                            "pos": {
-                                "x": 5.3086,
-                                "y": 2.8448
-                            },
-                            "uuid": "adbae4ad-017f-4401-99c9-9dba9291bc3f"
-                        }
-                    ],
-                    "severity": "error",
-                    "type": "pin_not_connected"
-                },
-                {
-                    "description": "Pin not connected",
-                    "items": [
-                        {
-                            "description": "Symbol U12 Pin 45 [CDBUS6, Bidirectional, Line]",
-                            "pos": {
-                                "x": 5.3086,
-                                "y": 2.8702
-                            },
-                            "uuid": "be770126-1f2b-4e7e-b4e4-91055aa1330c"
-                        }
-                    ],
-                    "severity": "error",
-                    "type": "pin_not_connected"
-                },
-                {
-                    "description": "Pin not connected",
-                    "items": [
-                        {
-                            "description": "Symbol U12 Pin 46 [CDBUS7, Bidirectional, Line]",
-                            "pos": {
-                                "x": 5.3086,
-                                "y": 2.8956
-                            },
-                            "uuid": "3e0bc511-fd4e-44d4-976c-44c47c4679e2"
-                        }
-                    ],
-                    "severity": "error",
-                    "type": "pin_not_connected"
-                },
-                {
-                    "description": "Pin not connected",
-                    "items": [
-                        {
-                            "description": "Symbol U12 Pin 48 [DDBUS0, Bidirectional, Line]",
-                            "pos": {
-                                "x": 5.3086,
-                                "y": 2.9464
-                            },
-                            "uuid": "c1b3834d-7cec-49a4-aed6-92dc905459ec"
-                        }
-                    ],
-                    "severity": "error",
-                    "type": "pin_not_connected"
-                },
-                {
-                    "description": "Pin not connected",
-                    "items": [
-                        {
-                            "description": "Symbol U12 Pin 52 [DDBUS1, Bidirectional, Line]",
-                            "pos": {
-                                "x": 5.3086,
-                                "y": 2.9718
-                            },
-                            "uuid": "41da3886-d849-4614-a8e6-5dc0b0545f77"
-                        }
-                    ],
-                    "severity": "error",
-                    "type": "pin_not_connected"
-                },
-                {
-                    "description": "Pin not connected",
-                    "items": [
-                        {
-                            "description": "Symbol U12 Pin 53 [DDBUS2, Bidirectional, Line]",
-                            "pos": {
-                                "x": 5.3086,
-                                "y": 2.9972
-                            },
-                            "uuid": "5a951112-1a2b-4985-8f01-017e8d64a762"
-                        }
-                    ],
-                    "severity": "error",
-                    "type": "pin_not_connected"
-                },
-                {
-                    "description": "Pin not connected",
-                    "items": [
-                        {
-                            "description": "Symbol U12 Pin 54 [DDBUS3, Bidirectional, Line]",
-                            "pos": {
-                                "x": 5.3086,
-                                "y": 3.0226
-                            },
-                            "uuid": "9dc1019a-5e94-4c38-8453-c118016af89e"
-                        }
-                    ],
-                    "severity": "error",
-                    "type": "pin_not_connected"
-                },
-                {
-                    "description": "Pin not connected",
-                    "items": [
-                        {
-                            "description": "Symbol U12 Pin 55 [DDBUS4, Bidirectional, Line]",
-                            "pos": {
-                                "x": 5.3086,
-                                "y": 3.048
-                            },
-                            "uuid": "f6d76a34-9cf4-4646-b732-6bedb8be2e3c"
-                        }
-                    ],
-                    "severity": "error",
-                    "type": "pin_not_connected"
-                },
-                {
-                    "description": "Pin not connected",
-                    "items": [
-                        {
-                            "description": "Symbol U12 Pin 57 [DDBUS5, Bidirectional, Line]",
-                            "pos": {
-                                "x": 5.3086,
-                                "y": 3.0734
-                            },
-                            "uuid": "6c3550ad-a73a-4e90-b0fe-99f1ea84f4e6"
-                        }
-                    ],
-                    "severity": "error",
-                    "type": "pin_not_connected"
-                },
-                {
-                    "description": "Pin not connected",
-                    "items": [
-                        {
-                            "description": "Symbol U12 Pin 58 [DDBUS6, Bidirectional, Line]",
-                            "pos": {
-                                "x": 5.3086,
-                                "y": 3.0988
-                            },
-                            "uuid": "6aa7758b-6187-4335-a05c-513a60aa29a5"
-                        }
-                    ],
-                    "severity": "error",
-                    "type": "pin_not_connected"
-                },
-                {
-                    "description": "Pin not connected",
-                    "items": [
-                        {
-                            "description": "Symbol U12 Pin 59 [DDBUS7, Bidirectional, Line]",
-                            "pos": {
-                                "x": 5.3086,
-                                "y": 3.1242
-                            },
-                            "uuid": "d2acd403-5603-4966-9691-0408ad8e3925"
-                        }
-                    ],
-                    "severity": "error",
-                    "type": "pin_not_connected"
                 },
                 {
                     "description": "Symbol 'C_Small' doesn't match copy in library 'Device'",
@@ -1074,29 +639,6 @@
                     "type": "lib_symbol_mismatch"
                 },
                 {
-                    "description": "Both +USB5V and +VDDMOD5 are attached to the same items; +USB5V will be used in the netlist",
-                    "items": [
-                        {
-                            "description": "Symbol #PWR0118 Pin 1 [Power input, Line]",
-                            "pos": {
-                                "x": 1.5494,
-                                "y": 2.0447
-                            },
-                            "uuid": "cc46119a-0e9d-4887-82a5-07076ccd1b36"
-                        },
-                        {
-                            "description": "Symbol #PWR0114 Pin 1 [Power input, Line]",
-                            "pos": {
-                                "x": 1.5494,
-                                "y": 2.2225
-                            },
-                            "uuid": "2f2384b0-b31c-4a16-8b67-730b4ebc3025"
-                        }
-                    ],
-                    "severity": "warning",
-                    "type": "multiple_net_names"
-                },
-                {
                     "description": "Both +USB3V3B and +VDDMOD3 are attached to the same items; +USB3V3B will be used in the netlist",
                     "items": [
                         {
@@ -1114,6 +656,29 @@
                                 "y": 2.9337
                             },
                             "uuid": "f2cedef7-c11d-43d3-bf67-94e75d2077bc"
+                        }
+                    ],
+                    "severity": "warning",
+                    "type": "multiple_net_names"
+                },
+                {
+                    "description": "Both +USB5V and +VDDMOD5 are attached to the same items; +USB5V will be used in the netlist",
+                    "items": [
+                        {
+                            "description": "Symbol #PWR0118 Pin 1 [Power input, Line]",
+                            "pos": {
+                                "x": 1.5494,
+                                "y": 2.0447
+                            },
+                            "uuid": "cc46119a-0e9d-4887-82a5-07076ccd1b36"
+                        },
+                        {
+                            "description": "Symbol #PWR0119 Pin 1 [Power input, Line]",
+                            "pos": {
+                                "x": 1.5621,
+                                "y": 3.4163
+                            },
+                            "uuid": "1dc78026-f8d6-40a1-91a8-537169557ee5"
                         }
                     ],
                     "severity": "warning",
