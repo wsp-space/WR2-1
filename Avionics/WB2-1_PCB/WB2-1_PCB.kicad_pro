@@ -570,8 +570,8 @@
         },
         {
           "group_by": false,
-          "label": "Manufacturer",
-          "name": "Manufacturer",
+          "label": "Datasheet",
+          "name": "Datasheet",
           "show": true
         },
         {
@@ -582,8 +582,8 @@
         },
         {
           "group_by": false,
-          "label": "Datasheet",
-          "name": "Datasheet",
+          "label": "Manufacturer",
+          "name": "Manufacturer",
           "show": true
         },
         {
@@ -682,7 +682,7 @@
       "include_excluded_from_bom": false,
       "name": "",
       "sort_asc": true,
-      "sort_field": "${ITEM_NUMBER}"
+      "sort_field": "Reference"
     },
     "bus_aliases": {},
     "connection_grid_size": 50.0,
@@ -725,7 +725,7 @@
         "uuid": "0cd90656-fc87-4255-9785-45f122d1f505"
       }
     ],
-    "used_designators": "",
+    "used_designators": "Q1-2,R35-37,#PWR2,#PWR132-133,SW1,C56",
     "variants": []
   },
   "sheets": [
