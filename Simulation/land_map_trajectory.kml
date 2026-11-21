@@ -1,0 +1,383 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <Placemark>
+      <name>Trajectory - Wind 0.0 m/s</name>
+      <description>Phase: Trajectory, Wind Speed: 0.0 m/s</description>
+      <Style>
+        <LineStyle><color>ffffff00</color><width>2</width></LineStyle>
+        <PolyStyle><fill>0</fill></PolyStyle>
+      </Style>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>
+              135.09038437287037,34.28533144077966,89.47782373987138
+              135.09038437287037,34.28533144077966,89.47782373987138
+              135.09038437287037,34.28533144077966,89.47782373987138
+              135.09038437287037,34.28533144077966,89.47782373987138
+              135.09038437287037,34.28533144077966,89.47782373987138
+              135.09038437287037,34.28533144077966,89.47782373987138
+              135.09038437287037,34.28533144077966,89.47782373987138
+              135.09038437287037,34.28533144077966,89.47782373987138
+              135.09038437287037,34.28533144077966,89.47782373987138
+              135.09038437287037,34.28533144077966,89.47782373987138
+              135.09038437287037,34.28533144077966,89.47782373987138
+              135.09038437287037,34.28533144077966,89.47782373987138
+              135.09038437287037,34.28533144077966,89.47782373987138
+              135.09038437287037,34.28533144077966,89.47782373987138
+              135.09038437287037,34.28533144077966,89.47782373987138
+              135.09038437287037,34.28533144077966,89.47782373987138
+              135.09038437287037,34.28533144077966,89.47782373987138
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>Trajectory - Wind 1.0 m/s</name>
+      <description>Phase: Trajectory, Wind Speed: 1.0 m/s</description>
+      <Style>
+        <LineStyle><color>ffffdf00</color><width>2</width></LineStyle>
+        <PolyStyle><fill>0</fill></PolyStyle>
+      </Style>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>
+              135.0904347450443,34.28545036788153,87.59827670175582
+              135.0904997822134,34.28538203873101,88.29753258731216
+              135.09036734527422,34.285437171699314,88.56118365842849
+              135.09037200772806,34.285390527164054,89.95728703960776
+              135.0903505888445,34.28535303610039,89.08845133706927
+              135.09031239129698,34.2853262702431,89.9572869502008
+              135.09025686945878,34.285318096499275,88.56118347123265
+              135.09035491839268,34.285225899007614,88.29753244295716
+              135.0902587160494,34.28526063695698,87.5982764409855
+              135.0901926515081,34.285302129556726,87.52672220021486
+              135.0901573122352,34.28535487037103,88.81261162552983
+              135.0901533856826,34.28541160585328,87.73316365294158
+              135.09018024150143,34.285461924692086,87.38969089835882
+              135.09023199173583,34.28549633069226,87.73316384386271
+              135.09029907947382,34.28550767286599,88.81261193845421
+              135.09036953875173,34.285492785693734,87.52672253455967
+              135.0904347450443,34.28545036788153,87.59827670175582
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>Trajectory - Wind 2.0 m/s</name>
+      <description>Phase: Trajectory, Wind Speed: 2.0 m/s</description>
+      <Style>
+        <LineStyle><color>ffffbf00</color><width>2</width></LineStyle>
+        <PolyStyle><fill>0</fill></PolyStyle>
+      </Style>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>
+              135.09052874461506,34.285625135086704,89.60506324842572
+              135.09061209340524,34.28552912261382,88.18063249252737
+              135.09063910471122,34.285420390057965,87.10050303582102
+              135.09061992593618,34.28531343259814,88.8630690369755
+              135.09056045429148,34.285218886226495,89.4143430152908
+              135.09046552004602,34.28514700831343,88.8630689913407
+              135.09034583701606,34.28510429526735,87.10050286073238
+              135.09021228734926,34.28509819639184,88.18063205853105
+              135.09007916244906,34.28514055761047,89.60506246052682
+              135.0899732632366,34.28522763302964,88.11358656082302
+              135.08991784872092,34.28534423510842,87.03408946935087
+              135.08992557921115,34.285469255357626,89.67669438570738
+              135.08999157941713,34.28558251973542,89.46211936045438
+              135.09010664798598,34.28566441917055,89.67669502086937
+              135.09025029518983,34.285702560086385,87.03409049659967
+              135.0904002678479,34.285687876206076,88.11358761414886
+              135.09052874461506,34.285625135086704,89.60506324842572
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>Trajectory - Wind 3.0 m/s</name>
+      <description>Phase: Trajectory, Wind Speed: 3.0 m/s</description>
+      <Style>
+        <LineStyle><color>ffff9f00</color><width>2</width></LineStyle>
+        <PolyStyle><fill>0</fill></PolyStyle>
+      </Style>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>
+              135.09066403028038,34.28578285822087,87.19241544324905
+              135.09081315598073,34.2856324121769,88.47472388949245
+              135.0908798038611,34.28544855329935,89.69851967599243
+              135.09085892792652,34.285260655416366,87.33228737208992
+              135.0907565489294,34.28509353819546,87.68124730978161
+              135.09058804565453,34.284968689318546,87.3322875937447
+              135.09037451840547,34.28490393883879,89.6985197905451
+              135.09014333847043,34.28491045791098,88.47472343221307
+              135.08993000826013,34.284991700126014,87.1924141291529
+              135.08977277136532,34.28513696582042,89.30828124564141
+              135.08969386125122,34.285322539427675,88.38142919819802
+              135.08970823519286,34.28551935651283,87.78622786141932
+              135.08981340809765,34.28569640837326,87.58123693428934
+              135.0899927682985,34.28582603933191,87.78622914571315
+              135.09021834668548,34.285887853105514,88.38143122848123
+              135.09045465920516,34.28587193332921,89.30828323028982
+              135.09066403028038,34.28578285822087,87.19241544324905
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>Trajectory - Wind 4.0 m/s</name>
+      <description>Phase: Trajectory, Wind Speed: 4.0 m/s</description>
+      <Style>
+        <LineStyle><color>ffff7f00</color><width>2</width></LineStyle>
+        <PolyStyle><fill>0</fill></PolyStyle>
+      </Style>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>
+              135.09079577899038,34.28592386988488,88.91501533892006
+              135.09100555835366,34.285725153139346,86.96483573690057
+              135.09110477560125,34.28547384054075,88.11025171540678
+              135.09108063018803,34.285211443966034,88.90064271911979
+              135.09093920048795,34.284976782659,89.1854970306158
+              135.090701997965,34.28480334218516,88.90064341574907
+              135.0904025315564,34.28471693838723,88.110252417624
+              135.09008446396393,34.28473236413001,86.96483548358083
+              135.08979941592193,34.28484995019516,88.91501355916262
+              135.08958868502734,34.28504914708558,87.61168396100402
+              135.08949044531573,34.28529966732873,89.77434649132192
+              135.08951253961231,34.28556252779218,89.05481693614274
+              135.08965378820363,34.285798438296844,88.80474313814193
+              135.08989249003372,34.28597205653346,89.05481899622828
+              135.09019302307036,34.2860569379091,89.77434970345348
+              135.09050992336816,34.28604209748276,87.61168700456619
+              135.09079577899038,34.28592386988488,88.91501533892006
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>Trajectory - Wind 5.0 m/s</name>
+      <description>Phase: Trajectory, Wind Speed: 5.0 m/s</description>
+      <Style>
+        <LineStyle><color>ffff5f00</color><width>2</width></LineStyle>
+        <PolyStyle><fill>0</fill></PolyStyle>
+      </Style>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>
+              135.09091834474813,34.28605041745092,89.78436211124063
+              135.09118212789258,34.28580552900935,88.14082431979477
+              135.09130944032626,34.285493366603944,89.49488505348563
+              135.09128421485036,34.28516497893704,87.15604628715664
+              135.0911072122968,34.28486938469606,87.48178846668452
+              135.09080812257733,34.284651832638474,87.15604761335999
+              135.09043206738076,34.284547706058355,89.49488655850291
+              135.0900359474343,34.28457013505741,88.14082445204258
+              135.08968332541082,34.284719264610835,89.78435993008316
+              135.08942482552146,34.28496766128421,88.18402729090303
+              135.08930158058956,34.285277873040215,86.83574226684868
+              135.0893345591022,34.28560112449932,89.17931144405156
+              135.08950885432077,34.28589108044559,88.87454577349126
+              135.08980206514008,34.28610502572901,89.17931436281651
+              135.0901701608303,34.286214069983245,86.83574679866433
+              135.09056297793435,34.286194411879194,88.18403143435717
+              135.09091834474813,34.28605041745092,89.78436211124063
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>Trajectory - Wind 6.0 m/s</name>
+      <description>Phase: Trajectory, Wind Speed: 6.0 m/s</description>
+      <Style>
+        <LineStyle><color>ffff3f00</color><width>2</width></LineStyle>
+        <PolyStyle><fill>0</fill></PolyStyle>
+      </Style>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>
+              135.09103187507426,34.28616516142126,89.39512263983488
+              135.09134475417758,34.28587736292612,88.06992644350976
+              135.09149677227106,34.28550949179135,89.67028365377337
+              135.0914683305153,34.28512154299662,87.53502744715661
+              135.0912594605198,34.284772062832765,87.92536237090826
+              135.09090574524262,34.284515173072855,87.53502949886024
+              135.09046113652366,34.28439325207935,89.67028611525893
+              135.0899938184893,34.28442127763556,88.06992709822953
+              135.08957867547355,34.284598845324844,89.39512011222541
+              135.08927570100923,34.28489232936966,87.49877661839128
+              135.08913713336617,34.28525685298386,89.10724467877299
+              135.08917220155143,34.28563600813457,88.07785005494952
+              135.0893768207067,34.28597547637923,87.72630462702364
+              135.08971995584443,34.286226405834014,88.07785388361663
+              135.0901526341909,34.28635140915372,89.1072505414486
+              135.09061262857156,34.2863333294481,87.49878189433366
+              135.09103187507426,34.28616516142126,89.39512263983488
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>Trajectory - Wind 7.0 m/s</name>
+      <description>Phase: Trajectory, Wind Speed: 7.0 m/s</description>
+      <Style>
+        <LineStyle><color>ffff1f00</color><width>2</width></LineStyle>
+        <PolyStyle><fill>0</fill></PolyStyle>
+      </Style>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>
+              135.091136564834,34.28626922711697,87.82200946472585
+              135.0914916123623,34.28593947751454,89.95688572525978
+              135.09166863457943,34.28552300548995,88.58842211402953
+              135.0916335778356,34.28508139441856,89.83764537796378
+              135.09139893693703,34.28468290474557,87.09343461506069
+              135.0909947187367,34.28439281557056,89.8376482045278
+              135.0904892955543,34.2842518796225,88.58842563815415
+              135.08995898239863,34.2842875570127,89.95688699372113
+              135.0894842051092,34.28448824846258,87.82200664281845
+              135.08914485718304,34.28482429345585,88.83680489100516
+              135.08898388769123,34.28523762227682,87.03649168554693
+              135.0890297877798,34.285665964377344,89.04652572143823
+              135.08926137496377,34.28604926908279,88.66039567347616
+              135.08964868055494,34.2863330396873,89.04653045069426
+              135.0901358846411,34.28647930194599,87.03649893403053
+              135.0906584507867,34.28645571293952,88.83681125473231
+              135.091136564834,34.28626922711697,87.82200946472585
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>Trajectory - Wind 8.0 m/s</name>
+      <description>Phase: Trajectory, Wind Speed: 8.0 m/s</description>
+      <Style>
+        <LineStyle><color>ffff0000</color><width>2</width></LineStyle>
+        <PolyStyle><fill>0</fill></PolyStyle>
+      </Style>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>
+              135.09123044268787,34.28635931460171,88.36858983710408
+              135.091628094629,34.28599684577825,87.56041636969894
+              135.09182174380004,34.285533127208105,89.54572209529579
+              135.0917867073378,34.285043952779745,87.77680459804833
+              135.091523350281,34.28460337519582,88.28663941193372
+              135.0910774435521,34.28427949108102,87.77680824697018
+              135.09051661497313,34.28412642304528,89.54572671372443
+              135.08992702415173,34.28416337559411,87.56041831988841
+              135.08940325438977,34.2843898989594,88.36858678795397
+              135.08902799797085,34.2847627997017,89.1243593012914
+              135.08885118509718,34.28521989722675,87.14919056650251
+              135.088902823183,34.285692462755286,89.03099561017007
+              135.08915863754777,34.28611493844725,88.6224967893213
+              135.08958537947282,34.28642815884895,89.0310012223199
+              135.090122629177,34.28659032422602,87.1491991346702
+              135.09070022520055,34.286565202521956,89.12436671648175
+              135.09123044268787,34.28635931460171,88.36858983710408
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>Magnetic North</name>
+      <description>Magnetic north from the launch point (declination 7.4° W)</description>
+      <ExtendedData><Data name="annotation"><value>true</value></Data></ExtendedData>
+      <Style><LineStyle><color>ff15ccfa</color><width>3</width></LineStyle></Style>
+      <LineString><tessellate>1</tessellate><coordinates>
+        135.09059,34.2852,0 135.09031023532532,34.286987936030044,0
+      </coordinates></LineString>
+    </Placemark>
+    <Placemark>
+      <name>MN (7.4° W)</name>
+      <ExtendedData><Data name="annotation"><value>true</value></Data></ExtendedData>
+      <Style><IconStyle><scale>0</scale></IconStyle><LabelStyle><color>ff15ccfa</color><scale>1.1</scale></LabelStyle></Style>
+      <Point><coordinates>135.09031023532532,34.286987936030044,0</coordinates></Point>
+    </Placemark>
+    <Folder>
+      <name>Trajectory - Wind from Magnetic North</name>
+      <Placemark>
+        <name>0.0 m/s</name>
+        <description>Trajectory landing, wind 0.0 m/s from magnetic north</description>
+        <ExtendedData><Data name="annotation"><value>true</value></Data></ExtendedData>
+        <Style><IconStyle><scale>0.8</scale><Icon><href>http://maps.google.com/mapfiles/kml/shapes/triangle.png</href></Icon></IconStyle><LabelStyle><scale>0.8</scale></LabelStyle></Style>
+        <Point><coordinates>135.09038437287037,34.28533144077966,89.47782373987138</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>1.0 m/s</name>
+        <description>Trajectory landing, wind 1.0 m/s from magnetic north</description>
+        <ExtendedData><Data name="annotation"><value>true</value></Data></ExtendedData>
+        <Style><IconStyle><scale>0.8</scale><Icon><href>http://maps.google.com/mapfiles/kml/shapes/triangle.png</href></Icon></IconStyle><LabelStyle><scale>0.8</scale></LabelStyle></Style>
+        <Point><coordinates>135.09029907947382,34.28550767286599,88.81261193845421</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>2.0 m/s</name>
+        <description>Trajectory landing, wind 2.0 m/s from magnetic north</description>
+        <ExtendedData><Data name="annotation"><value>true</value></Data></ExtendedData>
+        <Style><IconStyle><scale>0.8</scale><Icon><href>http://maps.google.com/mapfiles/kml/shapes/triangle.png</href></Icon></IconStyle><LabelStyle><scale>0.8</scale></LabelStyle></Style>
+        <Point><coordinates>135.09025029518983,34.285702560086385,87.03409049659967</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>3.0 m/s</name>
+        <description>Trajectory landing, wind 3.0 m/s from magnetic north</description>
+        <ExtendedData><Data name="annotation"><value>true</value></Data></ExtendedData>
+        <Style><IconStyle><scale>0.8</scale><Icon><href>http://maps.google.com/mapfiles/kml/shapes/triangle.png</href></Icon></IconStyle><LabelStyle><scale>0.8</scale></LabelStyle></Style>
+        <Point><coordinates>135.09021834668548,34.285887853105514,88.38143122848123</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>4.0 m/s</name>
+        <description>Trajectory landing, wind 4.0 m/s from magnetic north</description>
+        <ExtendedData><Data name="annotation"><value>true</value></Data></ExtendedData>
+        <Style><IconStyle><scale>0.8</scale><Icon><href>http://maps.google.com/mapfiles/kml/shapes/triangle.png</href></Icon></IconStyle><LabelStyle><scale>0.8</scale></LabelStyle></Style>
+        <Point><coordinates>135.09019302307036,34.2860569379091,89.77434970345348</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>5.0 m/s</name>
+        <description>Trajectory landing, wind 5.0 m/s from magnetic north</description>
+        <ExtendedData><Data name="annotation"><value>true</value></Data></ExtendedData>
+        <Style><IconStyle><scale>0.8</scale><Icon><href>http://maps.google.com/mapfiles/kml/shapes/triangle.png</href></Icon></IconStyle><LabelStyle><scale>0.8</scale></LabelStyle></Style>
+        <Point><coordinates>135.0901701608303,34.286214069983245,86.83574679866433</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>6.0 m/s</name>
+        <description>Trajectory landing, wind 6.0 m/s from magnetic north</description>
+        <ExtendedData><Data name="annotation"><value>true</value></Data></ExtendedData>
+        <Style><IconStyle><scale>0.8</scale><Icon><href>http://maps.google.com/mapfiles/kml/shapes/triangle.png</href></Icon></IconStyle><LabelStyle><scale>0.8</scale></LabelStyle></Style>
+        <Point><coordinates>135.0901526341909,34.28635140915372,89.1072505414486</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>7.0 m/s</name>
+        <description>Trajectory landing, wind 7.0 m/s from magnetic north</description>
+        <ExtendedData><Data name="annotation"><value>true</value></Data></ExtendedData>
+        <Style><IconStyle><scale>0.8</scale><Icon><href>http://maps.google.com/mapfiles/kml/shapes/triangle.png</href></Icon></IconStyle><LabelStyle><scale>0.8</scale></LabelStyle></Style>
+        <Point><coordinates>135.0901358846411,34.28647930194599,87.03649893403053</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>8.0 m/s</name>
+        <description>Trajectory landing, wind 8.0 m/s from magnetic north</description>
+        <ExtendedData><Data name="annotation"><value>true</value></Data></ExtendedData>
+        <Style><IconStyle><scale>0.8</scale><Icon><href>http://maps.google.com/mapfiles/kml/shapes/triangle.png</href></Icon></IconStyle><LabelStyle><scale>0.8</scale></LabelStyle></Style>
+        <Point><coordinates>135.090122629177,34.28659032422602,87.1491991346702</coordinates></Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>
