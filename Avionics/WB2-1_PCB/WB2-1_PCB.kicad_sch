@@ -41148,10 +41148,9 @@
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "bd9c1d86-9122-4704-87a6-56496b16d728")
 		(property "Reference" "C34"
-			(at 73.66 38.646 0)
+			(at 73.914 36.83 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -41162,7 +41161,7 @@
 			)
 		)
 		(property "Value" "2200μF"
-			(at 73.66 41.186 0)
+			(at 73.914 39.37 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
