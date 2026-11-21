@@ -492,7 +492,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "WB2-1_PCB.kicad_pro",
+    "filename": "WR2-1_PCB.kicad_pro",
     "version": 3
   },
   "net_settings": {
@@ -720,18 +720,18 @@
     "subpart_id_separator": 0,
     "top_level_sheets": [
       {
-        "filename": "WB2-1_PCB.kicad_sch",
-        "name": "WB2-1_PCB",
+        "filename": "WR2-1_PCB.kicad_sch",
+        "name": "WR2-1_PCB",
         "uuid": "0cd90656-fc87-4255-9785-45f122d1f505"
       }
     ],
-    "used_designators": "#G1",
+    "used_designators": "",
     "variants": []
   },
   "sheets": [
     [
       "0cd90656-fc87-4255-9785-45f122d1f505",
-      "WB2-1_PCB"
+      "WR2-1_PCB"
     ]
   ],
   "text_variables": {},
