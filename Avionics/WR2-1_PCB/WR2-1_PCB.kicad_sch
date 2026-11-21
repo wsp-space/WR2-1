@@ -5,7 +5,7 @@
 	(uuid "0cd90656-fc87-4255-9785-45f122d1f505")
 	(paper "A2")
 	(title_block
-		(title "WB2-1 Avionics PCB")
+		(title "WR2-1 Avionics PCB")
 		(date "2026-11-12")
 		(rev "Rev.0.1")
 		(company "Wakayama University Space Project")
@@ -22526,7 +22526,7 @@
 			(uuid "7561f5ed-439d-4d14-a81a-845d21f92886")
 		)
 		(instances
-			(project "WB2-1_PCB"
+			(project "WR2-1_PCB"
 				(path "/0cd90656-fc87-4255-9785-45f122d1f505"
 					(reference "#PWR099")
 					(unit 1)
@@ -22603,7 +22603,7 @@
 			(uuid "7210ccac-bcc1-41b3-b2a1-694e2f273981")
 		)
 		(instances
-			(project "WB2-1_PCB"
+			(project "WR2-1_PCB"
 				(path "/0cd90656-fc87-4255-9785-45f122d1f505"
 					(reference "#PWR0125")
 					(unit 1)
@@ -22681,7 +22681,7 @@
 			(uuid "4b4c618a-aaf7-4223-8497-18e8c4fe41c8")
 		)
 		(instances
-			(project "WB2-1_PCB"
+			(project "WR2-1_PCB"
 				(path "/0cd90656-fc87-4255-9785-45f122d1f505"
 					(reference "#PWR044")
 					(unit 1)
@@ -22763,7 +22763,7 @@
 			(uuid "c907f5ad-4280-4f0f-a33a-fb1e6ba8a043")
 		)
 		(instances
-			(project "WB2-1_PCB"
+			(project "WR2-1_PCB"
 				(path "/0cd90656-fc87-4255-9785-45f122d1f505"
 					(reference "C48")
 					(unit 1)
@@ -22841,7 +22841,7 @@
 			(uuid "0a267a34-d0a2-4e98-bd13-8aba155fbe81")
 		)
 		(instances
-			(project "WB2-1_PCB"
+			(project "WR2-1_PCB"
 				(path "/0cd90656-fc87-4255-9785-45f122d1f505"
 					(reference "#PWR03")
 					(unit 1)
@@ -22998,7 +22998,7 @@
 			(uuid "c0fd4b4e-37e4-40e9-8cac-8c87125c5ce9")
 		)
 		(instances
-			(project "WB2-1_PCB"
+			(project "WR2-1_PCB"
 				(path "/0cd90656-fc87-4255-9785-45f122d1f505"
 					(reference "IC3")
 					(unit 1)
@@ -23155,7 +23155,7 @@
 			(uuid "2eead690-02d2-4aef-aa6a-653bc9a0f613")
 		)
 		(instances
-			(project "WB2-1_PCB"
+			(project "WR2-1_PCB"
 				(path "/0cd90656-fc87-4255-9785-45f122d1f505"
 					(reference "IC5")
 					(unit 1)
@@ -23257,7 +23257,7 @@
 			(uuid "319347e8-d7db-4079-93e1-8324a09c49c0")
 		)
 		(instances
-			(project "WB2-1_PCB"
+			(project "WR2-1_PCB"
 				(path "/0cd90656-fc87-4255-9785-45f122d1f505"
 					(reference "C14")
 					(unit 1)
@@ -23417,7 +23417,7 @@
 			(uuid "9e348bb4-ad08-44f1-8365-59ccb2bfd974")
 		)
 		(instances
-			(project "WB2-1_PCB"
+			(project "WR2-1_PCB"
 				(path "/0cd90656-fc87-4255-9785-45f122d1f505"
 					(reference "U7")
 					(unit 1)
@@ -23498,7 +23498,7 @@
 			(uuid "769405fd-3508-4974-ab18-2d14ed05f6e4")
 		)
 		(instances
-			(project "WB2-1_PCB"
+			(project "WR2-1_PCB"
 				(path "/0cd90656-fc87-4255-9785-45f122d1f505"
 					(reference "R33")
 					(unit 1)
@@ -23579,7 +23579,7 @@
 			(uuid "34645871-b5bd-428b-aa81-4e1c624b2f3f")
 		)
 		(instances
-			(project "WB2-1_PCB"
+			(project "WR2-1_PCB"
 				(path "/0cd90656-fc87-4255-9785-45f122d1f505"
 					(reference "C53")
 					(unit 1)
@@ -23681,7 +23681,7 @@
 			(uuid "e82a2791-727d-4972-85fa-5f41bfb51118")
 		)
 		(instances
-			(project "WB2-1_PCB"
+			(project "WR2-1_PCB"
 				(path "/0cd90656-fc87-4255-9785-45f122d1f505"
 					(reference "R2")
 					(unit 1)
@@ -23785,7 +23785,7 @@
 			(uuid "353215f0-3492-4443-a96a-3a03d6dd9d96")
 		)
 		(instances
-			(project "WB2-1_PCB"
+			(project "WR2-1_PCB"
 				(path "/0cd90656-fc87-4255-9785-45f122d1f505"
 					(reference "C54")
 					(unit 1)
@@ -23898,7 +23898,7 @@
 			(uuid "c961cbc3-7cc1-4075-9b30-fd993a9200e6")
 		)
 		(instances
-			(project "WB2-1_PCB"
+			(project "WR2-1_PCB"
 				(path "/0cd90656-fc87-4255-9785-45f122d1f505"
 					(reference "D2")
 					(unit 1)
@@ -23977,7 +23977,7 @@
 			(uuid "3a0d3479-e58d-4f9d-afd8-2dffa472bbbd")
 		)
 		(instances
-			(project "WB2-1_PCB"
+			(project "WR2-1_PCB"
 				(path "/0cd90656-fc87-4255-9785-45f122d1f505"
 					(reference "#PWR07")
 					(unit 1)
@@ -24081,7 +24081,7 @@
 			(uuid "5f7f4e43-3ec0-45cf-bdf9-b85b78888b42")
 		)
 		(instances
-			(project "WB2-1_PCB"
+			(project "WR2-1_PCB"
 				(path "/0cd90656-fc87-4255-9785-45f122d1f505"
 					(reference "C32")
 					(unit 1)
@@ -24159,7 +24159,7 @@
 			(uuid "4f7ba550-4cdd-4cdd-af49-2b282e7d7aa7")
 		)
 		(instances
-			(project "WB2-1_PCB"
+			(project "WR2-1_PCB"
 				(path "/0cd90656-fc87-4255-9785-45f122d1f505"
 					(reference "#PWR021")
 					(unit 1)
@@ -24261,7 +24261,7 @@
 			(uuid "39c1026d-93f5-4e39-88f4-ba5a0693591c")
 		)
 		(instances
-			(project "WB2-1_PCB"
+			(project "WR2-1_PCB"
 				(path "/0cd90656-fc87-4255-9785-45f122d1f505"
 					(reference "C9")
 					(unit 1)
@@ -24339,7 +24339,7 @@
 			(uuid "7c3edb64-2688-46e1-862b-654d30663c2e")
 		)
 		(instances
-			(project "WB2-1_PCB"
+			(project "WR2-1_PCB"
 				(path "/0cd90656-fc87-4255-9785-45f122d1f505"
 					(reference "#PWR053")
 					(unit 1)
@@ -24443,7 +24443,7 @@
 			(uuid "ac2f4fd8-4d82-4d7b-bd45-5912dcb88ae4")
 		)
 		(instances
-			(project "WB2-1_PCB"
+			(project "WR2-1_PCB"
 				(path "/0cd90656-fc87-4255-9785-45f122d1f505"
 					(reference "R11")
 					(unit 1)
@@ -24522,7 +24522,7 @@
 			(uuid "a13dfc39-88c0-4615-90f7-38a5a78be72d")
 		)
 		(instances
-			(project "WB2-1_PCB"
+			(project "WR2-1_PCB"
 				(path "/0cd90656-fc87-4255-9785-45f122d1f505"
 					(reference "#PWR018")
 					(unit 1)
@@ -24601,7 +24601,7 @@
 			(uuid "ca843254-6d3c-4fac-ba9e-90cfae08997d")
 		)
 		(instances
-			(project "WB2-1_PCB"
+			(project "WR2-1_PCB"
 				(path "/0cd90656-fc87-4255-9785-45f122d1f505"
 					(reference "#PWR06")
 					(unit 1)
@@ -24679,7 +24679,7 @@
 			(uuid "a499dd08-2e11-40bc-a255-6e075e06aba9")
 		)
 		(instances
-			(project "WB2-1_PCB"
+			(project "WR2-1_PCB"
 				(path "/0cd90656-fc87-4255-9785-45f122d1f505"
 					(reference "#PWR042")
 					(unit 1)
@@ -24781,7 +24781,7 @@
 			(uuid "704d9e5c-bc22-4abc-aef0-e603c332dd03")
 		)
 		(instances
-			(project "WB2-1_PCB"
+			(project "WR2-1_PCB"
 				(path "/0cd90656-fc87-4255-9785-45f122d1f505"
 					(reference "J2")
 					(unit 1)
@@ -24859,7 +24859,7 @@
 			(uuid "df99445f-722b-40f3-aee2-878b40d300d6")
 		)
 		(instances
-			(project "WB2-1_PCB"
+			(project "WR2-1_PCB"
 				(path "/0cd90656-fc87-4255-9785-45f122d1f505"
 					(reference "#PWR0110")
 					(unit 1)
@@ -24963,7 +24963,7 @@
 			(uuid "6ee9b098-1c1b-4d30-a3f9-7739fe1eb276")
 		)
 		(instances
-			(project "WB2-1_PCB"
+			(project "WR2-1_PCB"
 				(path "/0cd90656-fc87-4255-9785-45f122d1f505"
 					(reference "C24")
 					(unit 1)
@@ -25067,7 +25067,7 @@
 			(uuid "4628e4e1-5b56-4642-9407-209fcf66eefa")
 		)
 		(instances
-			(project "WB2-1_PCB"
+			(project "WR2-1_PCB"
 				(path "/0cd90656-fc87-4255-9785-45f122d1f505"
 					(reference "C16")
 					(unit 1)
@@ -25145,7 +25145,7 @@
 			(uuid "2c9741dd-cc8d-44db-8ce0-899ef82e79fa")
 		)
 		(instances
-			(project "WB2-1_PCB"
+			(project "WR2-1_PCB"
 				(path "/0cd90656-fc87-4255-9785-45f122d1f505"
 					(reference "#PWR031")
 					(unit 1)
@@ -25227,7 +25227,7 @@
 			(uuid "fa360d9a-7488-460c-afda-a855c3418dde")
 		)
 		(instances
-			(project "WB2-1_PCB"
+			(project "WR2-1_PCB"
 				(path "/0cd90656-fc87-4255-9785-45f122d1f505"
 					(reference "R35")
 					(unit 1)
@@ -25304,7 +25304,7 @@
 			(uuid "b7ac8266-91fd-4601-9350-c2f44d9ae754")
 		)
 		(instances
-			(project "WB2-1_PCB"
+			(project "WR2-1_PCB"
 				(path "/0cd90656-fc87-4255-9785-45f122d1f505"
 					(reference "#PWR056")
 					(unit 1)
@@ -25382,7 +25382,7 @@
 			(uuid "619ed2a2-0d32-4303-93ae-ce4f81958434")
 		)
 		(instances
-			(project "WB2-1_PCB"
+			(project "WR2-1_PCB"
 				(path "/0cd90656-fc87-4255-9785-45f122d1f505"
 					(reference "#PWR016")
 					(unit 1)
@@ -25460,7 +25460,7 @@
 			(uuid "c8450069-e7bf-4bce-a2ca-f70db2d1b3d7")
 		)
 		(instances
-			(project "WB2-1_PCB"
+			(project "WR2-1_PCB"
 				(path "/0cd90656-fc87-4255-9785-45f122d1f505"
 					(reference "#PWR033")
 					(unit 1)
@@ -25539,7 +25539,7 @@
 			(uuid "ffed26f3-8fdb-42b6-86b3-a279726ef08e")
 		)
 		(instances
-			(project "WB2-1_PCB"
+			(project "WR2-1_PCB"
 				(path "/0cd90656-fc87-4255-9785-45f122d1f505"
 					(reference "R32")
 					(unit 1)
@@ -25643,7 +25643,7 @@
 			(uuid "08e980e1-bb93-44ac-8518-5955c6335984")
 		)
 		(instances
-			(project "WB2-1_PCB"
+			(project "WR2-1_PCB"
 				(path "/0cd90656-fc87-4255-9785-45f122d1f505"
 					(reference "C28")
 					(unit 1)
@@ -25721,7 +25721,7 @@
 			(uuid "adbfcf6a-7d37-48bb-a387-b0e066c1ceba")
 		)
 		(instances
-			(project "WB2-1_PCB"
+			(project "WR2-1_PCB"
 				(path "/0cd90656-fc87-4255-9785-45f122d1f505"
 					(reference "#PWR034")
 					(unit 1)
@@ -25825,7 +25825,7 @@
 			(uuid "327cf105-0abb-4c4f-93eb-b9246840458f")
 		)
 		(instances
-			(project "WB2-1_PCB"
+			(project "WR2-1_PCB"
 				(path "/0cd90656-fc87-4255-9785-45f122d1f505"
 					(reference "C20")
 					(unit 1)
@@ -25929,7 +25929,7 @@
 			(uuid "c4cd4ad7-ff07-4022-a082-70dd515a227a")
 		)
 		(instances
-			(project "WB2-1_PCB"
+			(project "WR2-1_PCB"
 				(path "/0cd90656-fc87-4255-9785-45f122d1f505"
 					(reference "C33")
 					(unit 1)
@@ -26031,7 +26031,7 @@
 			(uuid "8d0e89d4-5ada-43b3-811f-588d9b1bc6cc")
 		)
 		(instances
-			(project "WB2-1_PCB"
+			(project "WR2-1_PCB"
 				(path "/0cd90656-fc87-4255-9785-45f122d1f505"
 					(reference "R14")
 					(unit 1)
@@ -26109,7 +26109,7 @@
 			(uuid "74020d40-d53a-41a9-9579-51c7be27be22")
 		)
 		(instances
-			(project "WB2-1_PCB"
+			(project "WR2-1_PCB"
 				(path "/0cd90656-fc87-4255-9785-45f122d1f505"
 					(reference "#PWR014")
 					(unit 1)
@@ -26266,7 +26266,7 @@
 			(uuid "7e840dfc-303f-4027-ab1f-b49a296fd441")
 		)
 		(instances
-			(project "WB2-1_PCB"
+			(project "WR2-1_PCB"
 				(path "/0cd90656-fc87-4255-9785-45f122d1f505"
 					(reference "IC2")
 					(unit 1)
@@ -26347,7 +26347,7 @@
 			(uuid "7ae40296-caf3-4886-9ad6-3386f796ef13")
 		)
 		(instances
-			(project "WB2-1_PCB"
+			(project "WR2-1_PCB"
 				(path "/0cd90656-fc87-4255-9785-45f122d1f505"
 					(reference "R34")
 					(unit 1)
@@ -26429,7 +26429,7 @@
 			(uuid "970c0628-fadb-4c0a-b2d7-2c13d31832e6")
 		)
 		(instances
-			(project "WB2-1_PCB"
+			(project "WR2-1_PCB"
 				(path "/0cd90656-fc87-4255-9785-45f122d1f505"
 					(reference "C43")
 					(unit 1)
@@ -26508,7 +26508,7 @@
 			(uuid "7ccd6940-2bee-4023-8fdb-ff04c8b1f821")
 		)
 		(instances
-			(project "WB2-1_PCB"
+			(project "WR2-1_PCB"
 				(path "/0cd90656-fc87-4255-9785-45f122d1f505"
 					(reference "#PWR011")
 					(unit 1)
@@ -26611,7 +26611,7 @@
 			(uuid "5aeba001-f19c-4160-91ef-508b380131f6")
 		)
 		(instances
-			(project "WB2-1_PCB"
+			(project "WR2-1_PCB"
 				(path "/0cd90656-fc87-4255-9785-45f122d1f505"
 					(reference "C10")
 					(unit 1)
@@ -26689,7 +26689,7 @@
 			(uuid "de79f5a9-f139-4ee5-a3a2-d2257d2563e8")
 		)
 		(instances
-			(project "WB2-1_PCB"
+			(project "WR2-1_PCB"
 				(path "/0cd90656-fc87-4255-9785-45f122d1f505"
 					(reference "#PWR076")
 					(unit 1)
@@ -26767,7 +26767,7 @@
 			(uuid "b4f08d86-58c5-4241-929a-23e2e9a55e94")
 		)
 		(instances
-			(project "WB2-1_PCB"
+			(project "WR2-1_PCB"
 				(path "/0cd90656-fc87-4255-9785-45f122d1f505"
 					(reference "#PWR045")
 					(unit 1)
@@ -26845,7 +26845,7 @@
 			(uuid "905f033e-fe40-4ea8-9384-a9cf36fb2e6c")
 		)
 		(instances
-			(project "WB2-1_PCB"
+			(project "WR2-1_PCB"
 				(path "/0cd90656-fc87-4255-9785-45f122d1f505"
 					(reference "#PWR091")
 					(unit 1)
@@ -26923,7 +26923,7 @@
 			(uuid "7382d9e4-85f4-4eac-aeb2-bf2768d72195")
 		)
 		(instances
-			(project "WB2-1_PCB"
+			(project "WR2-1_PCB"
 				(path "/0cd90656-fc87-4255-9785-45f122d1f505"
 					(reference "#PWR035")
 					(unit 1)
@@ -27001,7 +27001,7 @@
 			(uuid "c8ab29a4-6ff9-4707-ac4d-9c8d0ae02b50")
 		)
 		(instances
-			(project "WB2-1_PCB"
+			(project "WR2-1_PCB"
 				(path "/0cd90656-fc87-4255-9785-45f122d1f505"
 					(reference "#PWR023")
 					(unit 1)
@@ -27083,7 +27083,7 @@
 			(uuid "35c57994-b11e-4da6-867d-103ae491e18f")
 		)
 		(instances
-			(project "WB2-1_PCB"
+			(project "WR2-1_PCB"
 				(path "/0cd90656-fc87-4255-9785-45f122d1f505"
 					(reference "C40")
 					(unit 1)
@@ -27161,7 +27161,7 @@
 			(uuid "1858121f-bf50-4501-9bd7-f61da8bc43a7")
 		)
 		(instances
-			(project "WB2-1_PCB"
+			(project "WR2-1_PCB"
 				(path "/0cd90656-fc87-4255-9785-45f122d1f505"
 					(reference "#PWR0128")
 					(unit 1)
@@ -27238,7 +27238,7 @@
 			(uuid "f2cedef7-c11d-43d3-bf67-94e75d2077bc")
 		)
 		(instances
-			(project "WB2-1_PCB"
+			(project "WR2-1_PCB"
 				(path "/0cd90656-fc87-4255-9785-45f122d1f505"
 					(reference "#PWR0105")
 					(unit 1)
@@ -27315,7 +27315,7 @@
 			(uuid "32fa85bf-f9ce-42e7-83ce-242cbaebccf6")
 		)
 		(instances
-			(project "WB2-1_PCB"
+			(project "WR2-1_PCB"
 				(path "/0cd90656-fc87-4255-9785-45f122d1f505"
 					(reference "#PWR0108")
 					(unit 1)
@@ -27394,7 +27394,7 @@
 			(uuid "4954e5a6-311d-45bc-bec7-06046975d9ea")
 		)
 		(instances
-			(project "WB2-1_PCB"
+			(project "WR2-1_PCB"
 				(path "/0cd90656-fc87-4255-9785-45f122d1f505"
 					(reference "#PWR037")
 					(unit 1)
@@ -27498,7 +27498,7 @@
 			(uuid "a398433a-b679-4d80-b5a6-6727518450a8")
 		)
 		(instances
-			(project "WB2-1_PCB"
+			(project "WR2-1_PCB"
 				(path "/0cd90656-fc87-4255-9785-45f122d1f505"
 					(reference "C35")
 					(unit 1)
@@ -27603,7 +27603,7 @@
 			(uuid "b54533dd-daa2-4e80-930d-8b1fcfe702ca")
 		)
 		(instances
-			(project "WB2-1_PCB"
+			(project "WR2-1_PCB"
 				(path "/0cd90656-fc87-4255-9785-45f122d1f505"
 					(reference "C31")
 					(unit 1)
@@ -27680,7 +27680,7 @@
 			(uuid "3495ac6b-24eb-4306-af58-98b1987a0561")
 		)
 		(instances
-			(project "WB2-1_PCB"
+			(project "WR2-1_PCB"
 				(path "/0cd90656-fc87-4255-9785-45f122d1f505"
 					(reference "#PWR0124")
 					(unit 1)
@@ -27762,7 +27762,7 @@
 			(uuid "b7cc4204-1128-400e-8c5f-351957657fce")
 		)
 		(instances
-			(project "WB2-1_PCB"
+			(project "WR2-1_PCB"
 				(path "/0cd90656-fc87-4255-9785-45f122d1f505"
 					(reference "C49")
 					(unit 1)
@@ -27841,7 +27841,7 @@
 			(uuid "27cf4d26-0b1b-43c9-80fe-cb09a05661df")
 		)
 		(instances
-			(project "WB2-1_PCB"
+			(project "WR2-1_PCB"
 				(path "/0cd90656-fc87-4255-9785-45f122d1f505"
 					(reference "#PWR067")
 					(unit 1)
@@ -27970,7 +27970,7 @@
 			(uuid "d8bdb886-0f2b-456e-9efa-77f6fedc4895")
 		)
 		(instances
-			(project "WB2-1_PCB"
+			(project "WR2-1_PCB"
 				(path "/0cd90656-fc87-4255-9785-45f122d1f505"
 					(reference "J7")
 					(unit 1)
@@ -28047,7 +28047,7 @@
 			(uuid "6e504557-25d3-4183-b3a9-996e25643f06")
 		)
 		(instances
-			(project "WB2-1_PCB"
+			(project "WR2-1_PCB"
 				(path "/0cd90656-fc87-4255-9785-45f122d1f505"
 					(reference "#PWR0104")
 					(unit 1)
@@ -28150,7 +28150,7 @@
 			(uuid "8df345e4-aea2-4af7-be21-e4dc7376092b")
 		)
 		(instances
-			(project "WB2-1_PCB"
+			(project "WR2-1_PCB"
 				(path "/0cd90656-fc87-4255-9785-45f122d1f505"
 					(reference "C19")
 					(unit 1)
@@ -28251,7 +28251,7 @@
 			(uuid "416edf45-542c-4989-9f4b-073c7c120d7f")
 		)
 		(instances
-			(project "WB2-1_PCB"
+			(project "WR2-1_PCB"
 				(path "/0cd90656-fc87-4255-9785-45f122d1f505"
 					(reference "C8")
 					(unit 1)
@@ -28333,7 +28333,7 @@
 			(uuid "efadd292-13b1-485f-9b50-672ac46a6c94")
 		)
 		(instances
-			(project "WB2-1_PCB"
+			(project "WR2-1_PCB"
 				(path "/0cd90656-fc87-4255-9785-45f122d1f505"
 					(reference "SW2")
 					(unit 1)
@@ -28411,7 +28411,7 @@
 			(uuid "16042cef-d0d9-4a9a-9ac2-234eb72fc814")
 		)
 		(instances
-			(project "WB2-1_PCB"
+			(project "WR2-1_PCB"
 				(path "/0cd90656-fc87-4255-9785-45f122d1f505"
 					(reference "#PWR0122")
 					(unit 1)
@@ -28490,7 +28490,7 @@
 			(uuid "273aab8e-beff-44ed-bcf8-e930d485ad37")
 		)
 		(instances
-			(project "WB2-1_PCB"
+			(project "WR2-1_PCB"
 				(path "/0cd90656-fc87-4255-9785-45f122d1f505"
 					(reference "#PWR087")
 					(unit 1)
@@ -28569,7 +28569,7 @@
 			(uuid "e6951f54-6858-4cf2-a61e-e1b112f6ca78")
 		)
 		(instances
-			(project "WB2-1_PCB"
+			(project "WR2-1_PCB"
 				(path "/0cd90656-fc87-4255-9785-45f122d1f505"
 					(reference "#PWR039")
 					(unit 1)
@@ -28673,7 +28673,7 @@
 			(uuid "0761fb47-3515-4f23-a9b7-a7a21011cbfb")
 		)
 		(instances
-			(project "WB2-1_PCB"
+			(project "WR2-1_PCB"
 				(path "/0cd90656-fc87-4255-9785-45f122d1f505"
 					(reference "R3")
 					(unit 1)
@@ -28776,7 +28776,7 @@
 			(uuid "0266ff23-7f0c-461f-b6af-54caf7e3dc57")
 		)
 		(instances
-			(project "WB2-1_PCB"
+			(project "WR2-1_PCB"
 				(path "/0cd90656-fc87-4255-9785-45f122d1f505"
 					(reference "R19")
 					(unit 1)
@@ -28855,7 +28855,7 @@
 			(uuid "69ff55c7-48f1-4f29-9a3c-d6a92a732562")
 		)
 		(instances
-			(project "WB2-1_PCB"
+			(project "WR2-1_PCB"
 				(path "/0cd90656-fc87-4255-9785-45f122d1f505"
 					(reference "#PWR072")
 					(unit 1)
@@ -28932,7 +28932,7 @@
 			(uuid "5949376e-be60-4292-8b1f-ec2846c5c6bf")
 		)
 		(instances
-			(project "WB2-1_PCB"
+			(project "WR2-1_PCB"
 				(path "/0cd90656-fc87-4255-9785-45f122d1f505"
 					(reference "#PWR0109")
 					(unit 1)
@@ -29010,7 +29010,7 @@
 			(uuid "f381ef55-64f1-4285-97d0-ba372f630ac9")
 		)
 		(instances
-			(project "WB2-1_PCB"
+			(project "WR2-1_PCB"
 				(path "/0cd90656-fc87-4255-9785-45f122d1f505"
 					(reference "#PWR0112")
 					(unit 1)
@@ -29088,7 +29088,7 @@
 			(uuid "451ece45-ea94-4ffc-85e3-43e630dfd5ba")
 		)
 		(instances
-			(project "WB2-1_PCB"
+			(project "WR2-1_PCB"
 				(path "/0cd90656-fc87-4255-9785-45f122d1f505"
 					(reference "#PWR092")
 					(unit 1)
@@ -29166,7 +29166,7 @@
 			(uuid "a82853c3-4050-45dd-85f8-7d0d7ca108a7")
 		)
 		(instances
-			(project "WB2-1_PCB"
+			(project "WR2-1_PCB"
 				(path "/0cd90656-fc87-4255-9785-45f122d1f505"
 					(reference "#PWR025")
 					(unit 1)
@@ -29262,7 +29262,7 @@
 			(uuid "754f7f22-0460-40bb-8aec-e4adbc76aea1")
 		)
 		(instances
-			(project "WB2-1_PCB"
+			(project "WR2-1_PCB"
 				(path "/0cd90656-fc87-4255-9785-45f122d1f505"
 					(reference "U5")
 					(unit 1)
@@ -29361,7 +29361,7 @@
 			(uuid "a6773d21-dcd6-4f03-b3b3-720793b4863e")
 		)
 		(instances
-			(project "WB2-1_PCB"
+			(project "WR2-1_PCB"
 				(path "/0cd90656-fc87-4255-9785-45f122d1f505"
 					(reference "Q1")
 					(unit 1)
@@ -29466,7 +29466,7 @@
 			(uuid "8deed1aa-560d-45e9-ab7b-d37b3c9802da")
 		)
 		(instances
-			(project "WB2-1_PCB"
+			(project "WR2-1_PCB"
 				(path "/0cd90656-fc87-4255-9785-45f122d1f505"
 					(reference "SW1")
 					(unit 1)
@@ -29543,7 +29543,7 @@
 			(uuid "e440be34-003b-406e-9f87-291d5871c3bc")
 		)
 		(instances
-			(project "WB2-1_PCB"
+			(project "WR2-1_PCB"
 				(path "/0cd90656-fc87-4255-9785-45f122d1f505"
 					(reference "#PWR0107")
 					(unit 1)
@@ -29646,7 +29646,7 @@
 			(uuid "ba6643fe-26c0-4a8a-9d74-716740fb4c2d")
 		)
 		(instances
-			(project "WB2-1_PCB"
+			(project "WR2-1_PCB"
 				(path "/0cd90656-fc87-4255-9785-45f122d1f505"
 					(reference "R16")
 					(unit 1)
@@ -29723,7 +29723,7 @@
 			(uuid "797aa83d-e50c-4edf-bc2f-14bd1fd3d3c6")
 		)
 		(instances
-			(project "WB2-1_PCB"
+			(project "WR2-1_PCB"
 				(path "/0cd90656-fc87-4255-9785-45f122d1f505"
 					(reference "#PWR0130")
 					(unit 1)
@@ -29801,7 +29801,7 @@
 			(uuid "15a1e49b-77f0-472f-9d63-dfc36e64588f")
 		)
 		(instances
-			(project "WB2-1_PCB"
+			(project "WR2-1_PCB"
 				(path "/0cd90656-fc87-4255-9785-45f122d1f505"
 					(reference "#PWR075")
 					(unit 1)
@@ -29879,7 +29879,7 @@
 			(uuid "84269b44-c8c9-4431-afdc-1d25561e529d")
 		)
 		(instances
-			(project "WB2-1_PCB"
+			(project "WR2-1_PCB"
 				(path "/0cd90656-fc87-4255-9785-45f122d1f505"
 					(reference "#PWR073")
 					(unit 1)
@@ -29957,7 +29957,7 @@
 			(uuid "9b734391-cb3a-4cce-b171-4e670d5210bd")
 		)
 		(instances
-			(project "WB2-1_PCB"
+			(project "WR2-1_PCB"
 				(path "/0cd90656-fc87-4255-9785-45f122d1f505"
 					(reference "#PWR086")
 					(unit 1)
@@ -30037,7 +30037,7 @@
 			(uuid "d5b2b0c9-b842-461d-bed5-6fccf65a3bb2")
 		)
 		(instances
-			(project "WB2-1_PCB"
+			(project "WR2-1_PCB"
 				(path "/0cd90656-fc87-4255-9785-45f122d1f505"
 					(reference "R26")
 					(unit 1)
@@ -30140,7 +30140,7 @@
 			(uuid "afd869f4-fce2-47e5-8e8b-2b2f44259ed0")
 		)
 		(instances
-			(project "WB2-1_PCB"
+			(project "WR2-1_PCB"
 				(path "/0cd90656-fc87-4255-9785-45f122d1f505"
 					(reference "R15")
 					(unit 1)
@@ -30217,7 +30217,7 @@
 			(uuid "92b854dc-d3f4-4171-850d-f5fedadb2d4f")
 		)
 		(instances
-			(project "WB2-1_PCB"
+			(project "WR2-1_PCB"
 				(path "/0cd90656-fc87-4255-9785-45f122d1f505"
 					(reference "#PWR050")
 					(unit 1)
@@ -30331,7 +30331,7 @@
 			(uuid "1794d233-9358-4488-9006-eaa864c30f31")
 		)
 		(instances
-			(project "WB2-1_PCB"
+			(project "WR2-1_PCB"
 				(path "/0cd90656-fc87-4255-9785-45f122d1f505"
 					(reference "U9")
 					(unit 1)
@@ -30413,7 +30413,7 @@
 			(uuid "9b752704-e0fa-4f44-b9cd-a0f172e0ff29")
 		)
 		(instances
-			(project "WB2-1_PCB"
+			(project "WR2-1_PCB"
 				(path "/0cd90656-fc87-4255-9785-45f122d1f505"
 					(reference "C42")
 					(unit 1)
@@ -30491,7 +30491,7 @@
 			(uuid "0223ce71-8430-4252-aef9-0fb98b18de44")
 		)
 		(instances
-			(project "WB2-1_PCB"
+			(project "WR2-1_PCB"
 				(path "/0cd90656-fc87-4255-9785-45f122d1f505"
 					(reference "#PWR060")
 					(unit 1)
@@ -30595,7 +30595,7 @@
 			(uuid "13c81ee1-1b7f-4dcf-bf7d-7aea1f3fc1de")
 		)
 		(instances
-			(project "WB2-1_PCB"
+			(project "WR2-1_PCB"
 				(path "/0cd90656-fc87-4255-9785-45f122d1f505"
 					(reference "C17")
 					(unit 1)
@@ -30674,7 +30674,7 @@
 			(uuid "5530a2d6-d7b1-4e6d-b6ca-0c857a1a7eb3")
 		)
 		(instances
-			(project "WB2-1_PCB"
+			(project "WR2-1_PCB"
 				(path "/0cd90656-fc87-4255-9785-45f122d1f505"
 					(reference "#PWR070")
 					(unit 1)
@@ -30777,7 +30777,7 @@
 			(uuid "630cc47a-5a9a-452c-8a8b-d0ac1c93b06d")
 		)
 		(instances
-			(project "WB2-1_PCB"
+			(project "WR2-1_PCB"
 				(path "/0cd90656-fc87-4255-9785-45f122d1f505"
 					(reference "R18")
 					(unit 1)
@@ -30890,7 +30890,7 @@
 			(uuid "ccf662f2-d38c-423f-a6e5-545eeb4db8de")
 		)
 		(instances
-			(project "WB2-1_PCB"
+			(project "WR2-1_PCB"
 				(path "/0cd90656-fc87-4255-9785-45f122d1f505"
 					(reference "D3")
 					(unit 1)
@@ -30968,7 +30968,7 @@
 			(uuid "144d40f4-4382-4cbd-9c97-d90fc7ccd88c")
 		)
 		(instances
-			(project "WB2-1_PCB"
+			(project "WR2-1_PCB"
 				(path "/0cd90656-fc87-4255-9785-45f122d1f505"
 					(reference "#PWR0111")
 					(unit 1)
@@ -31050,7 +31050,7 @@
 			(uuid "cfd99718-90ad-469f-88f8-8e68e61980d2")
 		)
 		(instances
-			(project "WB2-1_PCB"
+			(project "WR2-1_PCB"
 				(path "/0cd90656-fc87-4255-9785-45f122d1f505"
 					(reference "C46")
 					(unit 1)
@@ -31128,7 +31128,7 @@
 			(uuid "c40aa69c-96d5-4e52-aa39-de9961e363ad")
 		)
 		(instances
-			(project "WB2-1_PCB"
+			(project "WR2-1_PCB"
 				(path "/0cd90656-fc87-4255-9785-45f122d1f505"
 					(reference "#PWR0116")
 					(unit 1)
@@ -31211,7 +31211,7 @@
 			(uuid "b6bd0584-0694-40ba-a233-8d357ca5a9fa")
 		)
 		(instances
-			(project "WB2-1_PCB"
+			(project "WR2-1_PCB"
 				(path "/0cd90656-fc87-4255-9785-45f122d1f505"
 					(reference "C38")
 					(unit 1)
@@ -31294,7 +31294,7 @@
 			(uuid "7fdad61f-0676-431c-b171-b909110e0807")
 		)
 		(instances
-			(project "WB2-1_PCB"
+			(project "WR2-1_PCB"
 				(path "/0cd90656-fc87-4255-9785-45f122d1f505"
 					(reference "U11")
 					(unit 1)
@@ -31398,7 +31398,7 @@
 			(uuid "4470ad2d-9ea2-4c47-8cc4-1333f2f01993")
 		)
 		(instances
-			(project "WB2-1_PCB"
+			(project "WR2-1_PCB"
 				(path "/0cd90656-fc87-4255-9785-45f122d1f505"
 					(reference "C22")
 					(unit 1)
@@ -31502,7 +31502,7 @@
 			(uuid "cef29487-9f0f-402e-8279-56ba414076df")
 		)
 		(instances
-			(project "WB2-1_PCB"
+			(project "WR2-1_PCB"
 				(path "/0cd90656-fc87-4255-9785-45f122d1f505"
 					(reference "C30")
 					(unit 1)
@@ -31580,7 +31580,7 @@
 			(uuid "c1f89f61-24b8-4290-b9ed-daa4c8a772d5")
 		)
 		(instances
-			(project "WB2-1_PCB"
+			(project "WR2-1_PCB"
 				(path "/0cd90656-fc87-4255-9785-45f122d1f505"
 					(reference "#PWR024")
 					(unit 1)
@@ -31657,7 +31657,7 @@
 			(uuid "3a5f2c2c-4157-4de0-be73-007950269acd")
 		)
 		(instances
-			(project "WB2-1_PCB"
+			(project "WR2-1_PCB"
 				(path "/0cd90656-fc87-4255-9785-45f122d1f505"
 					(reference "#PWR0106")
 					(unit 1)
@@ -31736,7 +31736,7 @@
 			(uuid "da530458-a7c5-49ee-8fec-a70c20f20047")
 		)
 		(instances
-			(project "WB2-1_PCB"
+			(project "WR2-1_PCB"
 				(path "/0cd90656-fc87-4255-9785-45f122d1f505"
 					(reference "#PWR017")
 					(unit 1)
@@ -31840,7 +31840,7 @@
 			(uuid "4b3041a2-3016-4815-8d45-68a1bdc70127")
 		)
 		(instances
-			(project "WB2-1_PCB"
+			(project "WR2-1_PCB"
 				(path "/0cd90656-fc87-4255-9785-45f122d1f505"
 					(reference "C55")
 					(unit 1)
@@ -31918,7 +31918,7 @@
 			(uuid "66a4da45-967b-4c35-80be-199196e75710")
 		)
 		(instances
-			(project "WB2-1_PCB"
+			(project "WR2-1_PCB"
 				(path "/0cd90656-fc87-4255-9785-45f122d1f505"
 					(reference "#PWR015")
 					(unit 1)
@@ -32000,7 +32000,7 @@
 			(uuid "1fc846a7-c651-4547-b52d-bf2f13ba57ac")
 		)
 		(instances
-			(project "WB2-1_PCB"
+			(project "WR2-1_PCB"
 				(path "/0cd90656-fc87-4255-9785-45f122d1f505"
 					(reference "C50")
 					(unit 1)
@@ -32103,7 +32103,7 @@
 			(uuid "c646ded3-427a-44e4-a0d2-dfd3c183f6a1")
 		)
 		(instances
-			(project "WB2-1_PCB"
+			(project "WR2-1_PCB"
 				(path "/0cd90656-fc87-4255-9785-45f122d1f505"
 					(reference "R12")
 					(unit 1)
@@ -32206,7 +32206,7 @@
 			(uuid "611b4d0b-992a-409d-96de-bd55363658cb")
 		)
 		(instances
-			(project "WB2-1_PCB"
+			(project "WR2-1_PCB"
 				(path "/0cd90656-fc87-4255-9785-45f122d1f505"
 					(reference "R10")
 					(unit 1)
@@ -32394,7 +32394,7 @@
 			(uuid "d1fbc616-056e-4f9c-a4b1-a61e481c3bc5")
 		)
 		(instances
-			(project "WB2-1_PCB"
+			(project "WR2-1_PCB"
 				(path "/0cd90656-fc87-4255-9785-45f122d1f505"
 					(reference "U1")
 					(unit 1)
@@ -32498,7 +32498,7 @@
 			(uuid "cd65d025-3bb4-440c-a629-e74de5b72c5f")
 		)
 		(instances
-			(project "WB2-1_PCB"
+			(project "WR2-1_PCB"
 				(path "/0cd90656-fc87-4255-9785-45f122d1f505"
 					(reference "C56")
 					(unit 1)
@@ -32580,7 +32580,7 @@
 			(uuid "e2360c3a-df0a-4847-9c83-60994de9b417")
 		)
 		(instances
-			(project "WB2-1_PCB"
+			(project "WR2-1_PCB"
 				(path "/0cd90656-fc87-4255-9785-45f122d1f505"
 					(reference "R30")
 					(unit 1)
@@ -32658,7 +32658,7 @@
 			(uuid "ba2583f8-c079-4ecf-a966-e4146edae52e")
 		)
 		(instances
-			(project "WB2-1_PCB"
+			(project "WR2-1_PCB"
 				(path "/0cd90656-fc87-4255-9785-45f122d1f505"
 					(reference "#PWR082")
 					(unit 1)
@@ -32736,7 +32736,7 @@
 			(uuid "f880809d-83b0-4ea3-a6e7-3ba8c71161eb")
 		)
 		(instances
-			(project "WB2-1_PCB"
+			(project "WR2-1_PCB"
 				(path "/0cd90656-fc87-4255-9785-45f122d1f505"
 					(reference "#PWR0131")
 					(unit 1)
@@ -32839,7 +32839,7 @@
 			(uuid "31619656-91d3-4e1b-9724-723f9f03c6b4")
 		)
 		(instances
-			(project "WB2-1_PCB"
+			(project "WR2-1_PCB"
 				(path "/0cd90656-fc87-4255-9785-45f122d1f505"
 					(reference "R8")
 					(unit 1)
@@ -32943,7 +32943,7 @@
 			(uuid "ecdb73d9-b2c6-41de-b7ed-2f7ea416efed")
 		)
 		(instances
-			(project "WB2-1_PCB"
+			(project "WR2-1_PCB"
 				(path "/0cd90656-fc87-4255-9785-45f122d1f505"
 					(reference "C26")
 					(unit 1)
@@ -33025,7 +33025,7 @@
 			(uuid "cd773503-c0ed-47e3-a862-336815885499")
 		)
 		(instances
-			(project "WB2-1_PCB"
+			(project "WR2-1_PCB"
 				(path "/0cd90656-fc87-4255-9785-45f122d1f505"
 					(reference "C41")
 					(unit 1)
@@ -33103,7 +33103,7 @@
 			(uuid "62c13c43-55e3-4bf6-bef4-55e1f6296fdd")
 		)
 		(instances
-			(project "WB2-1_PCB"
+			(project "WR2-1_PCB"
 				(path "/0cd90656-fc87-4255-9785-45f122d1f505"
 					(reference "#PWR019")
 					(unit 1)
@@ -33207,7 +33207,7 @@
 			(uuid "eba69295-3819-40d6-b043-f40a4caacb14")
 		)
 		(instances
-			(project "WB2-1_PCB"
+			(project "WR2-1_PCB"
 				(path "/0cd90656-fc87-4255-9785-45f122d1f505"
 					(reference "R9")
 					(unit 1)
@@ -33285,7 +33285,7 @@
 			(uuid "5b665b7c-64b6-4aeb-9ee4-f21e1e7e9ccc")
 		)
 		(instances
-			(project "WB2-1_PCB"
+			(project "WR2-1_PCB"
 				(path "/0cd90656-fc87-4255-9785-45f122d1f505"
 					(reference "#PWR081")
 					(unit 1)
@@ -33362,7 +33362,7 @@
 			(uuid "d848a274-e302-4714-82b0-39157f5078f6")
 		)
 		(instances
-			(project "WB2-1_PCB"
+			(project "WR2-1_PCB"
 				(path "/0cd90656-fc87-4255-9785-45f122d1f505"
 					(reference "#PWR0103")
 					(unit 1)
@@ -33440,7 +33440,7 @@
 			(uuid "67661c48-6a18-41ad-9456-a0cf8789e940")
 		)
 		(instances
-			(project "WB2-1_PCB"
+			(project "WR2-1_PCB"
 				(path "/0cd90656-fc87-4255-9785-45f122d1f505"
 					(reference "#PWR088")
 					(unit 1)
@@ -33539,7 +33539,7 @@
 			(uuid "79c12930-7ea3-443b-a01a-7facb70c8ec1")
 		)
 		(instances
-			(project "WB2-1_PCB"
+			(project "WR2-1_PCB"
 				(path "/0cd90656-fc87-4255-9785-45f122d1f505"
 					(reference "Q2")
 					(unit 1)
@@ -33618,7 +33618,7 @@
 			(uuid "a7e2a8b8-28c4-4185-96a4-8113de862d50")
 		)
 		(instances
-			(project "WB2-1_PCB"
+			(project "WR2-1_PCB"
 				(path "/0cd90656-fc87-4255-9785-45f122d1f505"
 					(reference "#PWR027")
 					(unit 1)
@@ -33700,7 +33700,7 @@
 			(uuid "476011a6-0a97-477c-ae1b-7d32645fc91f")
 		)
 		(instances
-			(project "WB2-1_PCB"
+			(project "WR2-1_PCB"
 				(path "/0cd90656-fc87-4255-9785-45f122d1f505"
 					(reference "C47")
 					(unit 1)
@@ -33777,7 +33777,7 @@
 			(uuid "000d0870-017a-4c1b-bd97-477edfb89962")
 		)
 		(instances
-			(project "WB2-1_PCB"
+			(project "WR2-1_PCB"
 				(path "/0cd90656-fc87-4255-9785-45f122d1f505"
 					(reference "#PWR08")
 					(unit 1)
@@ -33854,7 +33854,7 @@
 			(uuid "e25c01cd-d430-410c-ae65-091c55901a93")
 		)
 		(instances
-			(project "WB2-1_PCB"
+			(project "WR2-1_PCB"
 				(path "/0cd90656-fc87-4255-9785-45f122d1f505"
 					(reference "#PWR0101")
 					(unit 1)
@@ -33934,7 +33934,7 @@
 			(uuid "43614c6a-aecb-42e9-9c72-47512e9bc519")
 		)
 		(instances
-			(project "WB2-1_PCB"
+			(project "WR2-1_PCB"
 				(path "/0cd90656-fc87-4255-9785-45f122d1f505"
 					(reference "C52")
 					(unit 1)
@@ -34012,7 +34012,7 @@
 			(uuid "8eea7e33-76f1-4510-8214-d70bd05d142a")
 		)
 		(instances
-			(project "WB2-1_PCB"
+			(project "WR2-1_PCB"
 				(path "/0cd90656-fc87-4255-9785-45f122d1f505"
 					(reference "#PWR05")
 					(unit 1)
@@ -34090,7 +34090,7 @@
 			(uuid "4564acbc-e321-4da1-8068-98c238c088cc")
 		)
 		(instances
-			(project "WB2-1_PCB"
+			(project "WR2-1_PCB"
 				(path "/0cd90656-fc87-4255-9785-45f122d1f505"
 					(reference "#PWR078")
 					(unit 1)
@@ -34193,7 +34193,7 @@
 			(uuid "f0bd5d67-6e04-44da-8d8d-f09c07e049db")
 		)
 		(instances
-			(project "WB2-1_PCB"
+			(project "WR2-1_PCB"
 				(path "/0cd90656-fc87-4255-9785-45f122d1f505"
 					(reference "C11")
 					(unit 1)
@@ -34271,7 +34271,7 @@
 			(uuid "955fbac6-7221-4687-99f7-3361f2dfebea")
 		)
 		(instances
-			(project "WB2-1_PCB"
+			(project "WR2-1_PCB"
 				(path "/0cd90656-fc87-4255-9785-45f122d1f505"
 					(reference "#PWR052")
 					(unit 1)
@@ -34349,7 +34349,7 @@
 			(uuid "53efb67e-9dcd-4d8e-9bb8-1a98db9df32d")
 		)
 		(instances
-			(project "WB2-1_PCB"
+			(project "WR2-1_PCB"
 				(path "/0cd90656-fc87-4255-9785-45f122d1f505"
 					(reference "#PWR0113")
 					(unit 1)
@@ -34427,7 +34427,7 @@
 			(uuid "762fa1dd-3fe2-4373-8397-e97e816dbda9")
 		)
 		(instances
-			(project "WB2-1_PCB"
+			(project "WR2-1_PCB"
 				(path "/0cd90656-fc87-4255-9785-45f122d1f505"
 					(reference "#PWR0120")
 					(unit 1)
@@ -34531,7 +34531,7 @@
 			(uuid "283b7542-7d98-4b39-86c3-df720bc12fc8")
 		)
 		(instances
-			(project "WB2-1_PCB"
+			(project "WR2-1_PCB"
 				(path "/0cd90656-fc87-4255-9785-45f122d1f505"
 					(reference "C39")
 					(unit 1)
@@ -34609,7 +34609,7 @@
 			(uuid "5db51c7f-cf5b-45a6-9d34-53b4e6c3aeb4")
 		)
 		(instances
-			(project "WB2-1_PCB"
+			(project "WR2-1_PCB"
 				(path "/0cd90656-fc87-4255-9785-45f122d1f505"
 					(reference "#PWR083")
 					(unit 1)
@@ -34711,7 +34711,7 @@
 			(uuid "5a499256-29d7-42fc-a128-dc9ab2138bdd")
 		)
 		(instances
-			(project "WB2-1_PCB"
+			(project "WR2-1_PCB"
 				(path "/0cd90656-fc87-4255-9785-45f122d1f505"
 					(reference "C5")
 					(unit 1)
@@ -34788,7 +34788,7 @@
 			(uuid "67e84033-62b9-4fb2-9cfd-872f5dfcb187")
 		)
 		(instances
-			(project "WB2-1_PCB"
+			(project "WR2-1_PCB"
 				(path "/0cd90656-fc87-4255-9785-45f122d1f505"
 					(reference "#PWR048")
 					(unit 1)
@@ -34866,7 +34866,7 @@
 			(uuid "90aa393e-5d26-48e3-9f61-b60572cc9dd9")
 		)
 		(instances
-			(project "WB2-1_PCB"
+			(project "WR2-1_PCB"
 				(path "/0cd90656-fc87-4255-9785-45f122d1f505"
 					(reference "#PWR01")
 					(unit 1)
@@ -34945,7 +34945,7 @@
 			(uuid "51085ede-1567-4e49-abc7-82febd05d1fe")
 		)
 		(instances
-			(project "WB2-1_PCB"
+			(project "WR2-1_PCB"
 				(path "/0cd90656-fc87-4255-9785-45f122d1f505"
 					(reference "#PWR04")
 					(unit 1)
@@ -35049,7 +35049,7 @@
 			(uuid "75d370e8-b7d1-4300-b259-a156dfa34dc5")
 		)
 		(instances
-			(project "WB2-1_PCB"
+			(project "WR2-1_PCB"
 				(path "/0cd90656-fc87-4255-9785-45f122d1f505"
 					(reference "C1")
 					(unit 1)
@@ -35152,7 +35152,7 @@
 			(uuid "99fc2de5-2189-4cc0-8745-6c5a3d0551e0")
 		)
 		(instances
-			(project "WB2-1_PCB"
+			(project "WR2-1_PCB"
 				(path "/0cd90656-fc87-4255-9785-45f122d1f505"
 					(reference "R20")
 					(unit 1)
@@ -35255,7 +35255,7 @@
 			(uuid "be625dd5-9f0e-467d-ac72-966eb613029b")
 		)
 		(instances
-			(project "WB2-1_PCB"
+			(project "WR2-1_PCB"
 				(path "/0cd90656-fc87-4255-9785-45f122d1f505"
 					(reference "C27")
 					(unit 1)
@@ -35333,7 +35333,7 @@
 			(uuid "c1c9f71d-579a-4a52-ab05-15d4875ba1d9")
 		)
 		(instances
-			(project "WB2-1_PCB"
+			(project "WR2-1_PCB"
 				(path "/0cd90656-fc87-4255-9785-45f122d1f505"
 					(reference "#PWR054")
 					(unit 1)
@@ -35435,7 +35435,7 @@
 			(uuid "205cdc4d-5adc-4540-9e53-cb6818bb9790")
 		)
 		(instances
-			(project "WB2-1_PCB"
+			(project "WR2-1_PCB"
 				(path "/0cd90656-fc87-4255-9785-45f122d1f505"
 					(reference "C6")
 					(unit 1)
@@ -35512,7 +35512,7 @@
 			(uuid "d0eaedef-0851-4b1d-b079-7ce6944512a2")
 		)
 		(instances
-			(project "WB2-1_PCB"
+			(project "WR2-1_PCB"
 				(path "/0cd90656-fc87-4255-9785-45f122d1f505"
 					(reference "#PWR064")
 					(unit 1)
@@ -35617,7 +35617,7 @@
 			(uuid "d22263e3-f6b1-4bef-9e1a-4c94d3fee153")
 		)
 		(instances
-			(project "WB2-1_PCB"
+			(project "WR2-1_PCB"
 				(path "/0cd90656-fc87-4255-9785-45f122d1f505"
 					(reference "C12")
 					(unit 1)
@@ -35696,7 +35696,7 @@
 			(uuid "38e855ee-d8d0-4462-8812-ecfdc94a63b9")
 		)
 		(instances
-			(project "WB2-1_PCB"
+			(project "WR2-1_PCB"
 				(path "/0cd90656-fc87-4255-9785-45f122d1f505"
 					(reference "#PWR068")
 					(unit 1)
@@ -35774,7 +35774,7 @@
 			(uuid "1ee096e3-acbb-41bc-8752-2cfb8f9cf4c0")
 		)
 		(instances
-			(project "WB2-1_PCB"
+			(project "WR2-1_PCB"
 				(path "/0cd90656-fc87-4255-9785-45f122d1f505"
 					(reference "#PWR036")
 					(unit 1)
@@ -35852,7 +35852,7 @@
 			(uuid "70e8c7d6-47bb-4f74-97ae-a7bc2cd456b5")
 		)
 		(instances
-			(project "WB2-1_PCB"
+			(project "WR2-1_PCB"
 				(path "/0cd90656-fc87-4255-9785-45f122d1f505"
 					(reference "#PWR063")
 					(unit 1)
@@ -35992,7 +35992,7 @@
 			(uuid "07bbde7b-2bce-4352-a0c8-9a7c1e33acfa")
 		)
 		(instances
-			(project "WB2-1_PCB"
+			(project "WR2-1_PCB"
 				(path "/0cd90656-fc87-4255-9785-45f122d1f505"
 					(reference "J5")
 					(unit 1)
@@ -36117,7 +36117,7 @@
 			(uuid "5e0d53fb-b0f6-4fc9-9619-aaab2f249333")
 		)
 		(instances
-			(project "WB2-1_PCB"
+			(project "WR2-1_PCB"
 				(path "/0cd90656-fc87-4255-9785-45f122d1f505"
 					(reference "J8")
 					(unit 1)
@@ -36199,7 +36199,7 @@
 			(uuid "162ead76-e5c5-479b-8a62-b8fdf3ed16ad")
 		)
 		(instances
-			(project "WB2-1_PCB"
+			(project "WR2-1_PCB"
 				(path "/0cd90656-fc87-4255-9785-45f122d1f505"
 					(reference "R29")
 					(unit 1)
@@ -36278,7 +36278,7 @@
 			(uuid "ed5249e5-adff-4e37-8c45-10ec2a8ba07e")
 		)
 		(instances
-			(project "WB2-1_PCB"
+			(project "WR2-1_PCB"
 				(path "/0cd90656-fc87-4255-9785-45f122d1f505"
 					(reference "#PWR022")
 					(unit 1)
@@ -36391,7 +36391,7 @@
 			(uuid "082d8954-125e-41fd-a4e1-21065381e6c3")
 		)
 		(instances
-			(project "WB2-1_PCB"
+			(project "WR2-1_PCB"
 				(path "/0cd90656-fc87-4255-9785-45f122d1f505"
 					(reference "D1")
 					(unit 1)
@@ -36505,7 +36505,7 @@
 			(uuid "211a52b2-7f2b-4a62-9c54-2b44bbd9995d")
 		)
 		(instances
-			(project "WB2-1_PCB"
+			(project "WR2-1_PCB"
 				(path "/0cd90656-fc87-4255-9785-45f122d1f505"
 					(reference "U10")
 					(unit 1)
@@ -36582,7 +36582,7 @@
 			(uuid "cc46119a-0e9d-4887-82a5-07076ccd1b36")
 		)
 		(instances
-			(project "WB2-1_PCB"
+			(project "WR2-1_PCB"
 				(path "/0cd90656-fc87-4255-9785-45f122d1f505"
 					(reference "#PWR0118")
 					(unit 1)
@@ -36685,7 +36685,7 @@
 			(uuid "82c78b07-2eb9-418c-8f55-ef5474c53b4a")
 		)
 		(instances
-			(project "WB2-1_PCB"
+			(project "WR2-1_PCB"
 				(path "/0cd90656-fc87-4255-9785-45f122d1f505"
 					(reference "C25")
 					(unit 1)
@@ -36767,7 +36767,7 @@
 			(uuid "4daa5f7a-9995-4f10-a3b0-03b5cbe2683a")
 		)
 		(instances
-			(project "WB2-1_PCB"
+			(project "WR2-1_PCB"
 				(path "/0cd90656-fc87-4255-9785-45f122d1f505"
 					(reference "C45")
 					(unit 1)
@@ -36845,7 +36845,7 @@
 			(uuid "8ab723a4-0574-44a7-b50a-f59286507a69")
 		)
 		(instances
-			(project "WB2-1_PCB"
+			(project "WR2-1_PCB"
 				(path "/0cd90656-fc87-4255-9785-45f122d1f505"
 					(reference "#PWR049")
 					(unit 1)
@@ -36923,7 +36923,7 @@
 			(uuid "dcc5f9a2-137a-444a-9d58-17134c72949c")
 		)
 		(instances
-			(project "WB2-1_PCB"
+			(project "WR2-1_PCB"
 				(path "/0cd90656-fc87-4255-9785-45f122d1f505"
 					(reference "#PWR080")
 					(unit 1)
@@ -37003,7 +37003,7 @@
 			(uuid "56318496-e02f-4e47-98e3-339f73d523df")
 		)
 		(instances
-			(project "WB2-1_PCB"
+			(project "WR2-1_PCB"
 				(path "/0cd90656-fc87-4255-9785-45f122d1f505"
 					(reference "R28")
 					(unit 1)
@@ -37085,7 +37085,7 @@
 			(uuid "19168cc9-2966-47ec-aa55-5d4d88f41f8a")
 		)
 		(instances
-			(project "WB2-1_PCB"
+			(project "WR2-1_PCB"
 				(path "/0cd90656-fc87-4255-9785-45f122d1f505"
 					(reference "SW3")
 					(unit 1)
@@ -37163,7 +37163,7 @@
 			(uuid "4d0a3492-7f1f-4792-bd49-e7744544a1a7")
 		)
 		(instances
-			(project "WB2-1_PCB"
+			(project "WR2-1_PCB"
 				(path "/0cd90656-fc87-4255-9785-45f122d1f505"
 					(reference "#PWR0100")
 					(unit 1)
@@ -37240,7 +37240,7 @@
 			(uuid "7216cb1d-e6c3-4a2a-b8dd-31dc4bf61b9c")
 		)
 		(instances
-			(project "WB2-1_PCB"
+			(project "WR2-1_PCB"
 				(path "/0cd90656-fc87-4255-9785-45f122d1f505"
 					(reference "#PWR0126")
 					(unit 1)
@@ -37318,7 +37318,7 @@
 			(uuid "e72bc1d5-7ab7-45cf-aa0b-317658ba3ad5")
 		)
 		(instances
-			(project "WB2-1_PCB"
+			(project "WR2-1_PCB"
 				(path "/0cd90656-fc87-4255-9785-45f122d1f505"
 					(reference "#PWR051")
 					(unit 1)
@@ -37419,7 +37419,7 @@
 			(uuid "a76433d5-65b7-4241-9391-fce32a624b68")
 		)
 		(instances
-			(project "WB2-1_PCB"
+			(project "WR2-1_PCB"
 				(path "/0cd90656-fc87-4255-9785-45f122d1f505"
 					(reference "L3")
 					(unit 1)
@@ -37497,7 +37497,7 @@
 			(uuid "718618d0-7fac-475c-9f44-20df9f4634eb")
 		)
 		(instances
-			(project "WB2-1_PCB"
+			(project "WR2-1_PCB"
 				(path "/0cd90656-fc87-4255-9785-45f122d1f505"
 					(reference "#PWR013")
 					(unit 1)
@@ -37600,7 +37600,7 @@
 			(uuid "5997e5ef-89f1-42ac-8c2b-596fcf55e04d")
 		)
 		(instances
-			(project "WB2-1_PCB"
+			(project "WR2-1_PCB"
 				(path "/0cd90656-fc87-4255-9785-45f122d1f505"
 					(reference "R13")
 					(unit 1)
@@ -37678,7 +37678,7 @@
 			(uuid "03970367-546a-4d11-b6f2-3f7496eb1021")
 		)
 		(instances
-			(project "WB2-1_PCB"
+			(project "WR2-1_PCB"
 				(path "/0cd90656-fc87-4255-9785-45f122d1f505"
 					(reference "#PWR066")
 					(unit 1)
@@ -37756,7 +37756,7 @@
 			(uuid "b97c3077-ba8a-4609-a9a1-8aa4b3f8bdb8")
 		)
 		(instances
-			(project "WB2-1_PCB"
+			(project "WR2-1_PCB"
 				(path "/0cd90656-fc87-4255-9785-45f122d1f505"
 					(reference "#PWR029")
 					(unit 1)
@@ -37834,7 +37834,7 @@
 			(uuid "f886474a-7ea7-459f-b34a-ea3ba865f04b")
 		)
 		(instances
-			(project "WB2-1_PCB"
+			(project "WR2-1_PCB"
 				(path "/0cd90656-fc87-4255-9785-45f122d1f505"
 					(reference "#PWR079")
 					(unit 1)
@@ -37913,7 +37913,7 @@
 			(uuid "9a3ef04b-1b1a-47ca-b364-4b1b228ef17d")
 		)
 		(instances
-			(project "WB2-1_PCB"
+			(project "WR2-1_PCB"
 				(path "/0cd90656-fc87-4255-9785-45f122d1f505"
 					(reference "R24")
 					(unit 1)
@@ -38029,7 +38029,7 @@
 			(uuid "840a7a9d-a93c-466e-ae1a-d9c550c4195c")
 		)
 		(instances
-			(project "WB2-1_PCB"
+			(project "WR2-1_PCB"
 				(path "/0cd90656-fc87-4255-9785-45f122d1f505"
 					(reference "U4")
 					(unit 1)
@@ -38110,7 +38110,7 @@
 			(uuid "27251a2c-c65d-4e1c-8a50-addedc8bb507")
 		)
 		(instances
-			(project "WB2-1_PCB"
+			(project "WR2-1_PCB"
 				(path "/0cd90656-fc87-4255-9785-45f122d1f505"
 					(reference "R21")
 					(unit 1)
@@ -38192,7 +38192,7 @@
 			(uuid "2cceaa54-7fbc-4c4f-a989-d678925ec135")
 		)
 		(instances
-			(project "WB2-1_PCB"
+			(project "WR2-1_PCB"
 				(path "/0cd90656-fc87-4255-9785-45f122d1f505"
 					(reference "R37")
 					(unit 1)
@@ -38273,7 +38273,7 @@
 			(uuid "1c3ead2f-935f-4c82-b088-6cd6a9a7f761")
 		)
 		(instances
-			(project "WB2-1_PCB"
+			(project "WR2-1_PCB"
 				(path "/0cd90656-fc87-4255-9785-45f122d1f505"
 					(reference "C51")
 					(unit 1)
@@ -38350,7 +38350,7 @@
 			(uuid "1db6e294-8ae5-4818-b7e3-b528030b394e")
 		)
 		(instances
-			(project "WB2-1_PCB"
+			(project "WR2-1_PCB"
 				(path "/0cd90656-fc87-4255-9785-45f122d1f505"
 					(reference "#PWR096")
 					(unit 1)
@@ -38428,7 +38428,7 @@
 			(uuid "4a0cdd5a-c642-4435-b62c-a3ae16fea7ef")
 		)
 		(instances
-			(project "WB2-1_PCB"
+			(project "WR2-1_PCB"
 				(path "/0cd90656-fc87-4255-9785-45f122d1f505"
 					(reference "#PWR028")
 					(unit 1)
@@ -38505,7 +38505,7 @@
 			(uuid "c9297a67-c318-4222-b3e5-e25c4438ee17")
 		)
 		(instances
-			(project "WB2-1_PCB"
+			(project "WR2-1_PCB"
 				(path "/0cd90656-fc87-4255-9785-45f122d1f505"
 					(reference "#PWR043")
 					(unit 1)
@@ -38584,7 +38584,7 @@
 			(uuid "f4da5f00-fcb2-4506-af06-afa7c0eb591d")
 		)
 		(instances
-			(project "WB2-1_PCB"
+			(project "WR2-1_PCB"
 				(path "/0cd90656-fc87-4255-9785-45f122d1f505"
 					(reference "#PWR0133")
 					(unit 1)
@@ -38686,7 +38686,7 @@
 			(uuid "fc30e650-5d1f-45c4-974a-6b6c0f544af7")
 		)
 		(instances
-			(project "WB2-1_PCB"
+			(project "WR2-1_PCB"
 				(path "/0cd90656-fc87-4255-9785-45f122d1f505"
 					(reference "F1")
 					(unit 1)
@@ -38787,7 +38787,7 @@
 			(uuid "4ff36b5d-d095-451c-b11e-96081dcb0a24")
 		)
 		(instances
-			(project "WB2-1_PCB"
+			(project "WR2-1_PCB"
 				(path "/0cd90656-fc87-4255-9785-45f122d1f505"
 					(reference "L2")
 					(unit 1)
@@ -38888,7 +38888,7 @@
 			(uuid "52458f01-bb85-4f9d-b08c-2a2200c9fc37")
 		)
 		(instances
-			(project "WB2-1_PCB"
+			(project "WR2-1_PCB"
 				(path "/0cd90656-fc87-4255-9785-45f122d1f505"
 					(reference "R5")
 					(unit 1)
@@ -38965,7 +38965,7 @@
 			(uuid "0423bbb7-7d9b-43ed-85cf-2accd9602f1e")
 		)
 		(instances
-			(project "WB2-1_PCB"
+			(project "WR2-1_PCB"
 				(path "/0cd90656-fc87-4255-9785-45f122d1f505"
 					(reference "#PWR097")
 					(unit 1)
@@ -39069,7 +39069,7 @@
 			(uuid "572001ed-88a2-4238-a23d-6402ea454ee7")
 		)
 		(instances
-			(project "WB2-1_PCB"
+			(project "WR2-1_PCB"
 				(path "/0cd90656-fc87-4255-9785-45f122d1f505"
 					(reference "C23")
 					(unit 1)
@@ -39147,7 +39147,7 @@
 			(uuid "fc6bd491-4d81-4967-a0c5-58f4447d241f")
 		)
 		(instances
-			(project "WB2-1_PCB"
+			(project "WR2-1_PCB"
 				(path "/0cd90656-fc87-4255-9785-45f122d1f505"
 					(reference "#PWR059")
 					(unit 1)
@@ -39228,7 +39228,7 @@
 			(uuid "395183f6-86f3-4d9b-8181-e3746a087694")
 		)
 		(instances
-			(project "WB2-1_PCB"
+			(project "WR2-1_PCB"
 				(path "/0cd90656-fc87-4255-9785-45f122d1f505"
 					(reference "R36")
 					(unit 1)
@@ -39332,7 +39332,7 @@
 			(uuid "2ac03143-25b0-4bb7-a012-94a8f054ee97")
 		)
 		(instances
-			(project "WB2-1_PCB"
+			(project "WR2-1_PCB"
 				(path "/0cd90656-fc87-4255-9785-45f122d1f505"
 					(reference "C15")
 					(unit 1)
@@ -39435,7 +39435,7 @@
 			(uuid "b64391fa-2293-4cbb-8b73-a5d5a4761281")
 		)
 		(instances
-			(project "WB2-1_PCB"
+			(project "WR2-1_PCB"
 				(path "/0cd90656-fc87-4255-9785-45f122d1f505"
 					(reference "R6")
 					(unit 1)
@@ -39513,7 +39513,7 @@
 			(uuid "44925b37-3286-4990-8903-106df21115f6")
 		)
 		(instances
-			(project "WB2-1_PCB"
+			(project "WR2-1_PCB"
 				(path "/0cd90656-fc87-4255-9785-45f122d1f505"
 					(reference "#PWR089")
 					(unit 1)
@@ -39591,7 +39591,7 @@
 			(uuid "df5deb15-e2a5-4417-a360-c93920e16611")
 		)
 		(instances
-			(project "WB2-1_PCB"
+			(project "WR2-1_PCB"
 				(path "/0cd90656-fc87-4255-9785-45f122d1f505"
 					(reference "#PWR038")
 					(unit 1)
@@ -39669,7 +39669,7 @@
 			(uuid "40912685-ab99-46bb-bebb-42565c21721d")
 		)
 		(instances
-			(project "WB2-1_PCB"
+			(project "WR2-1_PCB"
 				(path "/0cd90656-fc87-4255-9785-45f122d1f505"
 					(reference "#PWR026")
 					(unit 1)
@@ -39747,7 +39747,7 @@
 			(uuid "cb6c6247-732f-4172-a78b-9ab48b641bc9")
 		)
 		(instances
-			(project "WB2-1_PCB"
+			(project "WR2-1_PCB"
 				(path "/0cd90656-fc87-4255-9785-45f122d1f505"
 					(reference "#PWR046")
 					(unit 1)
@@ -39825,7 +39825,7 @@
 			(uuid "ef2d9ae3-c899-48e5-950d-0c2f83648cce")
 		)
 		(instances
-			(project "WB2-1_PCB"
+			(project "WR2-1_PCB"
 				(path "/0cd90656-fc87-4255-9785-45f122d1f505"
 					(reference "#PWR041")
 					(unit 1)
@@ -39902,7 +39902,7 @@
 			(uuid "7f9e0f8b-4673-462d-bb12-b7635e6685a9")
 		)
 		(instances
-			(project "WB2-1_PCB"
+			(project "WR2-1_PCB"
 				(path "/0cd90656-fc87-4255-9785-45f122d1f505"
 					(reference "#PWR058")
 					(unit 1)
@@ -40059,7 +40059,7 @@
 			(uuid "4f6c87dc-bb51-42d3-875e-e95af5e2b61c")
 		)
 		(instances
-			(project "WB2-1_PCB"
+			(project "WR2-1_PCB"
 				(path "/0cd90656-fc87-4255-9785-45f122d1f505"
 					(reference "IC4")
 					(unit 1)
@@ -40136,7 +40136,7 @@
 			(uuid "c570834b-25ad-43e2-9157-a596d47286f6")
 		)
 		(instances
-			(project "WB2-1_PCB"
+			(project "WR2-1_PCB"
 				(path "/0cd90656-fc87-4255-9785-45f122d1f505"
 					(reference "#PWR0117")
 					(unit 1)
@@ -40241,7 +40241,7 @@
 			(uuid "335c1cb4-abdb-4e46-8406-2a290ca9ea5d")
 		)
 		(instances
-			(project "WB2-1_PCB"
+			(project "WR2-1_PCB"
 				(path "/0cd90656-fc87-4255-9785-45f122d1f505"
 					(reference "J3")
 					(unit 1)
@@ -40319,7 +40319,7 @@
 			(uuid "480f4649-b629-45db-8acb-443b910ef32b")
 		)
 		(instances
-			(project "WB2-1_PCB"
+			(project "WR2-1_PCB"
 				(path "/0cd90656-fc87-4255-9785-45f122d1f505"
 					(reference "#PWR09")
 					(unit 1)
@@ -40423,7 +40423,7 @@
 			(uuid "c55c1e21-1317-40dd-8ebd-dbabf3f08511")
 		)
 		(instances
-			(project "WB2-1_PCB"
+			(project "WR2-1_PCB"
 				(path "/0cd90656-fc87-4255-9785-45f122d1f505"
 					(reference "C29")
 					(unit 1)
@@ -40500,7 +40500,7 @@
 			(uuid "12c2d0b0-77d7-4be8-b9af-b2b2fddfd1e9")
 		)
 		(instances
-			(project "WB2-1_PCB"
+			(project "WR2-1_PCB"
 				(path "/0cd90656-fc87-4255-9785-45f122d1f505"
 					(reference "#PWR0127")
 					(unit 1)
@@ -40602,7 +40602,7 @@
 			(uuid "488349f0-d386-473d-8910-24759fccf582")
 		)
 		(instances
-			(project "WB2-1_PCB"
+			(project "WR2-1_PCB"
 				(path "/0cd90656-fc87-4255-9785-45f122d1f505"
 					(reference "C13")
 					(unit 1)
@@ -40684,7 +40684,7 @@
 			(uuid "065f0522-d9ec-401a-9c94-17fbd7e8c8bb")
 		)
 		(instances
-			(project "WB2-1_PCB"
+			(project "WR2-1_PCB"
 				(path "/0cd90656-fc87-4255-9785-45f122d1f505"
 					(reference "C37")
 					(unit 1)
@@ -40764,7 +40764,7 @@
 			(uuid "87e528bf-b8d4-4dab-a6d2-8addfce2254a")
 		)
 		(instances
-			(project "WB2-1_PCB"
+			(project "WR2-1_PCB"
 				(path "/0cd90656-fc87-4255-9785-45f122d1f505"
 					(reference "R27")
 					(unit 1)
@@ -41052,7 +41052,7 @@
 			(uuid "381d6e12-2cf7-4de5-8d7f-bd8804198204")
 		)
 		(instances
-			(project "WB2-1_PCB"
+			(project "WR2-1_PCB"
 				(path "/0cd90656-fc87-4255-9785-45f122d1f505"
 					(reference "U2")
 					(unit 1)
@@ -41130,7 +41130,7 @@
 			(uuid "36a77e53-fd92-44f9-9160-75508f270b9e")
 		)
 		(instances
-			(project "WB2-1_PCB"
+			(project "WR2-1_PCB"
 				(path "/0cd90656-fc87-4255-9785-45f122d1f505"
 					(reference "#PWR0123")
 					(unit 1)
@@ -41233,7 +41233,7 @@
 			(uuid "9bc8c07a-785c-4cc6-b48e-81437f4b8556")
 		)
 		(instances
-			(project "WB2-1_PCB"
+			(project "WR2-1_PCB"
 				(path "/0cd90656-fc87-4255-9785-45f122d1f505"
 					(reference "C34")
 					(unit 1)
@@ -41313,7 +41313,7 @@
 			(uuid "34d3fa7b-2264-4eaf-a16b-301808be0366")
 		)
 		(instances
-			(project "WB2-1_PCB"
+			(project "WR2-1_PCB"
 				(path "/0cd90656-fc87-4255-9785-45f122d1f505"
 					(reference "R25")
 					(unit 1)
@@ -41415,7 +41415,7 @@
 			(uuid "3eb9b53c-ebb6-4da3-a9d2-496fe3e39afd")
 		)
 		(instances
-			(project "WB2-1_PCB"
+			(project "WR2-1_PCB"
 				(path "/0cd90656-fc87-4255-9785-45f122d1f505"
 					(reference "C3")
 					(unit 1)
@@ -41493,7 +41493,7 @@
 			(uuid "c9e6f0a1-e5f5-4798-baa5-017c1b68ba6d")
 		)
 		(instances
-			(project "WB2-1_PCB"
+			(project "WR2-1_PCB"
 				(path "/0cd90656-fc87-4255-9785-45f122d1f505"
 					(reference "#PWR098")
 					(unit 1)
@@ -41595,7 +41595,7 @@
 			(uuid "6f2f8799-87ce-431e-aeaf-d7b9fc60c2b3")
 		)
 		(instances
-			(project "WB2-1_PCB"
+			(project "WR2-1_PCB"
 				(path "/0cd90656-fc87-4255-9785-45f122d1f505"
 					(reference "R1")
 					(unit 1)
@@ -41673,7 +41673,7 @@
 			(uuid "5f0bed78-07ef-4708-a509-bec9015291c3")
 		)
 		(instances
-			(project "WB2-1_PCB"
+			(project "WR2-1_PCB"
 				(path "/0cd90656-fc87-4255-9785-45f122d1f505"
 					(reference "#PWR047")
 					(unit 1)
@@ -41751,7 +41751,7 @@
 			(uuid "66f743e7-e86d-4670-a8e7-9246e607eb14")
 		)
 		(instances
-			(project "WB2-1_PCB"
+			(project "WR2-1_PCB"
 				(path "/0cd90656-fc87-4255-9785-45f122d1f505"
 					(reference "#PWR0132")
 					(unit 1)
@@ -41856,7 +41856,7 @@
 			(uuid "fea7ab0d-aa2a-4247-8c99-981f475d5dba")
 		)
 		(instances
-			(project "WB2-1_PCB"
+			(project "WR2-1_PCB"
 				(path "/0cd90656-fc87-4255-9785-45f122d1f505"
 					(reference "C2")
 					(unit 1)
@@ -41934,7 +41934,7 @@
 			(uuid "7d97c2ca-0c2e-4eeb-b905-226f93f96f60")
 		)
 		(instances
-			(project "WB2-1_PCB"
+			(project "WR2-1_PCB"
 				(path "/0cd90656-fc87-4255-9785-45f122d1f505"
 					(reference "#PWR090")
 					(unit 1)
@@ -42013,7 +42013,7 @@
 			(uuid "90a8d505-7133-4f30-a310-342d2dc076be")
 		)
 		(instances
-			(project "WB2-1_PCB"
+			(project "WR2-1_PCB"
 				(path "/0cd90656-fc87-4255-9785-45f122d1f505"
 					(reference "#PWR040")
 					(unit 1)
@@ -42090,7 +42090,7 @@
 			(uuid "f04bdbd7-a258-40c7-a3da-7b5ef438e831")
 		)
 		(instances
-			(project "WB2-1_PCB"
+			(project "WR2-1_PCB"
 				(path "/0cd90656-fc87-4255-9785-45f122d1f505"
 					(reference "#PWR093")
 					(unit 1)
@@ -42167,7 +42167,7 @@
 			(uuid "b6c4abda-2c1e-496e-b7ce-93dde9702292")
 		)
 		(instances
-			(project "WB2-1_PCB"
+			(project "WR2-1_PCB"
 				(path "/0cd90656-fc87-4255-9785-45f122d1f505"
 					(reference "#PWR0102")
 					(unit 1)
@@ -42287,7 +42287,7 @@
 			(uuid "1f642cd7-f8d9-49e5-af11-586627de20e3")
 		)
 		(instances
-			(project "WB2-1_PCB"
+			(project "WR2-1_PCB"
 				(path "/0cd90656-fc87-4255-9785-45f122d1f505"
 					(reference "U6")
 					(unit 1)
@@ -42368,7 +42368,7 @@
 			(uuid "09281782-2397-4b62-b8c4-3a7c4c9ef484")
 		)
 		(instances
-			(project "WB2-1_PCB"
+			(project "WR2-1_PCB"
 				(path "/0cd90656-fc87-4255-9785-45f122d1f505"
 					(reference "R23")
 					(unit 1)
@@ -42470,7 +42470,7 @@
 			(uuid "1bcc4de8-765e-4475-a1cb-c50a028ee9db")
 		)
 		(instances
-			(project "WB2-1_PCB"
+			(project "WR2-1_PCB"
 				(path "/0cd90656-fc87-4255-9785-45f122d1f505"
 					(reference "C4")
 					(unit 1)
@@ -42548,7 +42548,7 @@
 			(uuid "24d0c396-846e-4996-b002-f74dc032373a")
 		)
 		(instances
-			(project "WB2-1_PCB"
+			(project "WR2-1_PCB"
 				(path "/0cd90656-fc87-4255-9785-45f122d1f505"
 					(reference "#PWR074")
 					(unit 1)
@@ -42839,7 +42839,7 @@
 			(uuid "381d6e12-2cf7-4de5-8d7f-bd8804198205")
 		)
 		(instances
-			(project "WB2-1_PCB"
+			(project "WR2-1_PCB"
 				(path "/0cd90656-fc87-4255-9785-45f122d1f505"
 					(reference "U2")
 					(unit 2)
@@ -42916,7 +42916,7 @@
 			(uuid "1dc78026-f8d6-40a1-91a8-537169557ee5")
 		)
 		(instances
-			(project "WB2-1_PCB"
+			(project "WR2-1_PCB"
 				(path "/0cd90656-fc87-4255-9785-45f122d1f505"
 					(reference "#PWR0119")
 					(unit 1)
@@ -42995,7 +42995,7 @@
 			(uuid "32d58492-3ac3-4a7b-a19b-9b38674d8e52")
 		)
 		(instances
-			(project "WB2-1_PCB"
+			(project "WR2-1_PCB"
 				(path "/0cd90656-fc87-4255-9785-45f122d1f505"
 					(reference "#PWR069")
 					(unit 1)
@@ -43074,7 +43074,7 @@
 			(uuid "cfe5b622-961a-4cec-8668-55a8f7d27310")
 		)
 		(instances
-			(project "WB2-1_PCB"
+			(project "WR2-1_PCB"
 				(path "/0cd90656-fc87-4255-9785-45f122d1f505"
 					(reference "#PWR0129")
 					(unit 1)
@@ -43156,7 +43156,7 @@
 			(uuid "628fc162-141d-4175-b3c7-395425263095")
 		)
 		(instances
-			(project "WB2-1_PCB"
+			(project "WR2-1_PCB"
 				(path "/0cd90656-fc87-4255-9785-45f122d1f505"
 					(reference "R31")
 					(unit 1)
@@ -43258,7 +43258,7 @@
 			(uuid "71bce66a-5dba-421d-8161-fceb3b8c4c6e")
 		)
 		(instances
-			(project "WB2-1_PCB"
+			(project "WR2-1_PCB"
 				(path "/0cd90656-fc87-4255-9785-45f122d1f505"
 					(reference "C7")
 					(unit 1)
@@ -43336,7 +43336,7 @@
 			(uuid "909e2139-1341-4515-ae2f-076d1e7e2e33")
 		)
 		(instances
-			(project "WB2-1_PCB"
+			(project "WR2-1_PCB"
 				(path "/0cd90656-fc87-4255-9785-45f122d1f505"
 					(reference "#PWR085")
 					(unit 1)
@@ -43414,7 +43414,7 @@
 			(uuid "58886df2-2472-47eb-a324-a9d553eff391")
 		)
 		(instances
-			(project "WB2-1_PCB"
+			(project "WR2-1_PCB"
 				(path "/0cd90656-fc87-4255-9785-45f122d1f505"
 					(reference "#PWR062")
 					(unit 1)
@@ -43492,7 +43492,7 @@
 			(uuid "aa86df5d-2602-4eab-b73d-e239bde8f2e2")
 		)
 		(instances
-			(project "WB2-1_PCB"
+			(project "WR2-1_PCB"
 				(path "/0cd90656-fc87-4255-9785-45f122d1f505"
 					(reference "#PWR0115")
 					(unit 1)
@@ -43570,7 +43570,7 @@
 			(uuid "0bf822c9-91d6-4b58-af40-89ec1f4797d5")
 		)
 		(instances
-			(project "WB2-1_PCB"
+			(project "WR2-1_PCB"
 				(path "/0cd90656-fc87-4255-9785-45f122d1f505"
 					(reference "#PWR032")
 					(unit 1)
@@ -43673,7 +43673,7 @@
 			(uuid "f26b7d6e-194a-4971-ae80-45a7c7801b19")
 		)
 		(instances
-			(project "WB2-1_PCB"
+			(project "WR2-1_PCB"
 				(path "/0cd90656-fc87-4255-9785-45f122d1f505"
 					(reference "R17")
 					(unit 1)
@@ -43752,7 +43752,7 @@
 			(uuid "7fc9917f-81b7-42a4-adbc-2178ef3f9834")
 		)
 		(instances
-			(project "WB2-1_PCB"
+			(project "WR2-1_PCB"
 				(path "/0cd90656-fc87-4255-9785-45f122d1f505"
 					(reference "#PWR065")
 					(unit 1)
@@ -43834,7 +43834,7 @@
 			(uuid "161c7491-3723-4955-849c-74997ab7cc11")
 		)
 		(instances
-			(project "WB2-1_PCB"
+			(project "WR2-1_PCB"
 				(path "/0cd90656-fc87-4255-9785-45f122d1f505"
 					(reference "C44")
 					(unit 1)
@@ -43947,7 +43947,7 @@
 			(uuid "8b93daaf-90d2-4ea3-bb26-7d5f1560f55e")
 		)
 		(instances
-			(project "WB2-1_PCB"
+			(project "WR2-1_PCB"
 				(path "/0cd90656-fc87-4255-9785-45f122d1f505"
 					(reference "D4")
 					(unit 1)
@@ -44025,7 +44025,7 @@
 			(uuid "934505bc-9548-487b-8439-ff66a4a85b22")
 		)
 		(instances
-			(project "WB2-1_PCB"
+			(project "WR2-1_PCB"
 				(path "/0cd90656-fc87-4255-9785-45f122d1f505"
 					(reference "#PWR012")
 					(unit 1)
@@ -44103,7 +44103,7 @@
 			(uuid "221c68e9-4227-40cf-8c82-a6f4cdec6ae2")
 		)
 		(instances
-			(project "WB2-1_PCB"
+			(project "WR2-1_PCB"
 				(path "/0cd90656-fc87-4255-9785-45f122d1f505"
 					(reference "#PWR084")
 					(unit 1)
@@ -44181,7 +44181,7 @@
 			(uuid "dc0fa9a6-2de9-41c8-99a5-8015b0bfacdd")
 		)
 		(instances
-			(project "WB2-1_PCB"
+			(project "WR2-1_PCB"
 				(path "/0cd90656-fc87-4255-9785-45f122d1f505"
 					(reference "#PWR0121")
 					(unit 1)
@@ -44283,7 +44283,7 @@
 			(uuid "79c11b5d-ebd4-4fb5-a053-e07350ff9261")
 		)
 		(instances
-			(project "WB2-1_PCB"
+			(project "WR2-1_PCB"
 				(path "/0cd90656-fc87-4255-9785-45f122d1f505"
 					(reference "J1")
 					(unit 1)
@@ -44491,7 +44491,7 @@
 			(uuid "6a667f40-738d-42ef-8127-f1dd644c7115")
 		)
 		(instances
-			(project "WB2-1_PCB"
+			(project "WR2-1_PCB"
 				(path "/0cd90656-fc87-4255-9785-45f122d1f505"
 					(reference "IC1")
 					(unit 1)
@@ -44572,7 +44572,7 @@
 			(uuid "81c83457-8eff-4942-bbe0-94f24c08fdb6")
 		)
 		(instances
-			(project "WB2-1_PCB"
+			(project "WR2-1_PCB"
 				(path "/0cd90656-fc87-4255-9785-45f122d1f505"
 					(reference "R22")
 					(unit 1)
@@ -44673,7 +44673,7 @@
 			(uuid "3c5b2db4-c152-451e-8655-2cbb6b453809")
 		)
 		(instances
-			(project "WB2-1_PCB"
+			(project "WR2-1_PCB"
 				(path "/0cd90656-fc87-4255-9785-45f122d1f505"
 					(reference "L1")
 					(unit 1)
@@ -44787,7 +44787,7 @@
 			(uuid "2187637d-8939-478e-9e64-ee5f364ed1a0")
 		)
 		(instances
-			(project "WB2-1_PCB"
+			(project "WR2-1_PCB"
 				(path "/0cd90656-fc87-4255-9785-45f122d1f505"
 					(reference "U8")
 					(unit 1)
@@ -44890,7 +44890,7 @@
 			(uuid "d5eec63f-353b-4075-bed8-04cb7bfa2e7b")
 		)
 		(instances
-			(project "WB2-1_PCB"
+			(project "WR2-1_PCB"
 				(path "/0cd90656-fc87-4255-9785-45f122d1f505"
 					(reference "C21")
 					(unit 1)
@@ -44995,7 +44995,7 @@
 			(uuid "ca6c58bd-d61d-47c5-a4cd-5add40b1045b")
 		)
 		(instances
-			(project "WB2-1_PCB"
+			(project "WR2-1_PCB"
 				(path "/0cd90656-fc87-4255-9785-45f122d1f505"
 					(reference "J4")
 					(unit 1)
@@ -45099,7 +45099,7 @@
 			(uuid "78adac45-dd94-46da-8b37-3bb4d0f509f3")
 		)
 		(instances
-			(project "WB2-1_PCB"
+			(project "WR2-1_PCB"
 				(path "/0cd90656-fc87-4255-9785-45f122d1f505"
 					(reference "R4")
 					(unit 1)
@@ -45177,7 +45177,7 @@
 			(uuid "c3443e9e-77eb-41c2-9bdc-160ee3a15cca")
 		)
 		(instances
-			(project "WB2-1_PCB"
+			(project "WR2-1_PCB"
 				(path "/0cd90656-fc87-4255-9785-45f122d1f505"
 					(reference "#PWR030")
 					(unit 1)
@@ -45306,7 +45306,7 @@
 			(uuid "9489034c-f375-44ae-a5b0-ecb27617e916")
 		)
 		(instances
-			(project "WB2-1_PCB"
+			(project "WR2-1_PCB"
 				(path "/0cd90656-fc87-4255-9785-45f122d1f505"
 					(reference "U3")
 					(unit 1)
@@ -45383,7 +45383,7 @@
 			(uuid "2f2384b0-b31c-4a16-8b67-730b4ebc3025")
 		)
 		(instances
-			(project "WB2-1_PCB"
+			(project "WR2-1_PCB"
 				(path "/0cd90656-fc87-4255-9785-45f122d1f505"
 					(reference "#PWR0114")
 					(unit 1)
@@ -45487,7 +45487,7 @@
 			(uuid "9c39ee0a-e9b9-4dfa-990c-33a41bc32fbd")
 		)
 		(instances
-			(project "WB2-1_PCB"
+			(project "WR2-1_PCB"
 				(path "/0cd90656-fc87-4255-9785-45f122d1f505"
 					(reference "R7")
 					(unit 1)
@@ -45591,7 +45591,7 @@
 			(uuid "5d344a10-1235-40c5-b6f0-69013a4886e5")
 		)
 		(instances
-			(project "WB2-1_PCB"
+			(project "WR2-1_PCB"
 				(path "/0cd90656-fc87-4255-9785-45f122d1f505"
 					(reference "C18")
 					(unit 1)
@@ -45669,7 +45669,7 @@
 			(uuid "d9de81e3-6fe5-4ff7-82c6-2b7d4428edcc")
 		)
 		(instances
-			(project "WB2-1_PCB"
+			(project "WR2-1_PCB"
 				(path "/0cd90656-fc87-4255-9785-45f122d1f505"
 					(reference "#PWR061")
 					(unit 1)
@@ -45747,7 +45747,7 @@
 			(uuid "9ced7424-cd73-46aa-a146-b2d5f94e58e2")
 		)
 		(instances
-			(project "WB2-1_PCB"
+			(project "WR2-1_PCB"
 				(path "/0cd90656-fc87-4255-9785-45f122d1f505"
 					(reference "#PWR010")
 					(unit 1)
@@ -45963,7 +45963,7 @@
 			(uuid "d45fd1b4-2cfa-4177-a823-7efbc4a0aa9d")
 		)
 		(instances
-			(project "WB2-1_PCB"
+			(project "WR2-1_PCB"
 				(path "/0cd90656-fc87-4255-9785-45f122d1f505"
 					(reference "J6")
 					(unit 1)
@@ -46042,7 +46042,7 @@
 			(uuid "7d97f975-be1b-4880-83d5-49e5f77d7fa2")
 		)
 		(instances
-			(project "WB2-1_PCB"
+			(project "WR2-1_PCB"
 				(path "/0cd90656-fc87-4255-9785-45f122d1f505"
 					(reference "#PWR071")
 					(unit 1)
@@ -46120,7 +46120,7 @@
 			(uuid "ac7435ae-66d9-4b3a-8cfd-33957d7c4773")
 		)
 		(instances
-			(project "WB2-1_PCB"
+			(project "WR2-1_PCB"
 				(path "/0cd90656-fc87-4255-9785-45f122d1f505"
 					(reference "#PWR057")
 					(unit 1)
@@ -46198,7 +46198,7 @@
 			(uuid "8d32a0b2-f26d-4c73-97bf-c4be50e61763")
 		)
 		(instances
-			(project "WB2-1_PCB"
+			(project "WR2-1_PCB"
 				(path "/0cd90656-fc87-4255-9785-45f122d1f505"
 					(reference "#PWR020")
 					(unit 1)
@@ -46276,7 +46276,7 @@
 			(uuid "afefcfdc-f836-432f-ae1f-a5e6965b9a73")
 		)
 		(instances
-			(project "WB2-1_PCB"
+			(project "WR2-1_PCB"
 				(path "/0cd90656-fc87-4255-9785-45f122d1f505"
 					(reference "#PWR077")
 					(unit 1)
@@ -46380,7 +46380,7 @@
 			(uuid "b8c13bce-80eb-485b-8a04-bf12efea1bf3")
 		)
 		(instances
-			(project "WB2-1_PCB"
+			(project "WR2-1_PCB"
 				(path "/0cd90656-fc87-4255-9785-45f122d1f505"
 					(reference "C36")
 					(unit 1)
@@ -46648,7 +46648,7 @@
 			(uuid "c22d893e-fb03-47ba-9687-7a72320be48e")
 		)
 		(instances
-			(project "WB2-1_PCB"
+			(project "WR2-1_PCB"
 				(path "/0cd90656-fc87-4255-9785-45f122d1f505"
 					(reference "U12")
 					(unit 1)
@@ -46725,7 +46725,7 @@
 			(uuid "77e5f101-3e64-4933-82cd-4dd00cf9596a")
 		)
 		(instances
-			(project "WB2-1_PCB"
+			(project "WR2-1_PCB"
 				(path "/0cd90656-fc87-4255-9785-45f122d1f505"
 					(reference "#PWR094")
 					(unit 1)
@@ -46803,7 +46803,7 @@
 			(uuid "b98434b7-7547-44ac-8fab-811500957bfe")
 		)
 		(instances
-			(project "WB2-1_PCB"
+			(project "WR2-1_PCB"
 				(path "/0cd90656-fc87-4255-9785-45f122d1f505"
 					(reference "#PWR02")
 					(unit 1)
@@ -46960,7 +46960,7 @@
 			(uuid "835f51ac-db96-4619-b19f-40a7b8cfb15c")
 		)
 		(instances
-			(project "WB2-1_PCB"
+			(project "WR2-1_PCB"
 				(path "/0cd90656-fc87-4255-9785-45f122d1f505"
 					(reference "IC6")
 					(unit 1)
@@ -47038,7 +47038,7 @@
 			(uuid "38c8af37-4196-4933-aa8a-b9167043650a")
 		)
 		(instances
-			(project "WB2-1_PCB"
+			(project "WR2-1_PCB"
 				(path "/0cd90656-fc87-4255-9785-45f122d1f505"
 					(reference "#PWR055")
 					(unit 1)
@@ -47116,7 +47116,7 @@
 			(uuid "1f71bb54-9d8d-466c-a076-aaa788bb8d5c")
 		)
 		(instances
-			(project "WB2-1_PCB"
+			(project "WR2-1_PCB"
 				(path "/0cd90656-fc87-4255-9785-45f122d1f505"
 					(reference "#PWR095")
 					(unit 1)
@@ -47219,7 +47219,7 @@
 			(uuid "e473d7a7-9bf5-421f-a1e4-29fdfb69c444")
 		)
 		(instances
-			(project "WB2-1_PCB"
+			(project "WR2-1_PCB"
 				(path "/0cd90656-fc87-4255-9785-45f122d1f505"
 					(reference "Y1")
 					(unit 1)
