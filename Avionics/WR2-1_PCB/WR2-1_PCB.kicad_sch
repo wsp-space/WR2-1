@@ -22723,7 +22723,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
 			(at 533.4 107.95 0)
 			(hide yes)
 			(show_name no)
@@ -22746,6 +22746,28 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
+			(at 533.4 107.95 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "C0805C104K5RACTU"
+			(at 533.4 107.95 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" "KEMET"
 			(at 533.4 107.95 0)
 			(hide yes)
 			(show_name no)
@@ -22976,6 +22998,28 @@
 				(justify left top)
 			)
 		)
+		(property "MPN" "XC8114AA01PR-G"
+			(at 53.34 212.09 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" "Torex"
+			(at 53.34 212.09 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "675f81e5-ea5f-4116-b06b-c1e669f9189c")
 		)
@@ -23131,6 +23175,28 @@
 					(size 1.27 1.27)
 				)
 				(justify left top)
+			)
+		)
+		(property "MPN" "XC8114AA01PR-G"
+			(at 115.57 212.09 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" "Torex"
+			(at 115.57 212.09 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "2"
@@ -23458,7 +23524,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
 			(at 142.24 322.58 0)
 			(hide yes)
 			(show_name no)
@@ -23481,6 +23547,28 @@
 			)
 		)
 		(property "Description" "Resistor, small symbol"
+			(at 142.24 322.58 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "RC0805FR-0710KL"
+			(at 142.24 322.58 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" "Yageo"
 			(at 142.24 322.58 0)
 			(hide yes)
 			(show_name no)
@@ -23539,7 +23627,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
 			(at 438.15 214.63 0)
 			(hide yes)
 			(show_name no)
@@ -23563,6 +23651,28 @@
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
 			(at 438.15 214.63 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "C0805C104K5RACTU"
+			(at 438.15 214.63 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" "KEMET"
+			(at 438.15 214.63 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -25187,7 +25297,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
 			(at 41.91 38.1 0)
 			(hide yes)
 			(show_name no)
@@ -25210,6 +25320,28 @@
 			)
 		)
 		(property "Description" "Resistor, small symbol"
+			(at 41.91 38.1 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "RC0805FR-07100KL"
+			(at 41.91 38.1 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" "Yageo"
 			(at 41.91 38.1 0)
 			(hide yes)
 			(show_name no)
@@ -25499,7 +25631,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
 			(at 466.09 186.69 0)
 			(hide yes)
 			(show_name no)
@@ -25523,6 +25655,28 @@
 		)
 		(property "Description" "Resistor, small symbol"
 			(at 466.09 186.69 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "RC0805FR-072K2L"
+			(at 466.09 186.69 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" "Yageo"
+			(at 466.09 186.69 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -26244,6 +26398,28 @@
 				(justify left top)
 			)
 		)
+		(property "MPN" "XC8114AA01PR-G"
+			(at 113.03 139.7 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" "Torex"
+			(at 113.03 139.7 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "59396f97-0b50-4f34-9f0a-c4a002de36f1")
 		)
@@ -26307,7 +26483,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
 			(at 146.05 322.58 0)
 			(hide yes)
 			(show_name no)
@@ -26330,6 +26506,28 @@
 			)
 		)
 		(property "Description" "Resistor, small symbol"
+			(at 146.05 322.58 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "RC0805FR-0710KL"
+			(at 146.05 322.58 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" "Yageo"
 			(at 146.05 322.58 0)
 			(hide yes)
 			(show_name no)
@@ -26389,7 +26587,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
 			(at 537.21 95.25 0)
 			(hide yes)
 			(show_name no)
@@ -26412,6 +26610,28 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
+			(at 537.21 95.25 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "C0805C104K5RACTU"
+			(at 537.21 95.25 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" "KEMET"
 			(at 537.21 95.25 0)
 			(hide yes)
 			(show_name no)
@@ -27043,7 +27263,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
 			(at 511.81 95.25 0)
 			(hide yes)
 			(show_name no)
@@ -27066,6 +27286,28 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
+			(at 511.81 95.25 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "C0805C104K5RACTU"
+			(at 511.81 95.25 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" "KEMET"
 			(at 511.81 95.25 0)
 			(hide yes)
 			(show_name no)
@@ -27722,7 +27964,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
 			(at 525.78 107.95 0)
 			(hide yes)
 			(show_name no)
@@ -27745,6 +27987,28 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
+			(at 525.78 107.95 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "C0805C104K5RACTU"
+			(at 525.78 107.95 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" "KEMET"
 			(at 525.78 107.95 0)
 			(hide yes)
 			(show_name no)
@@ -28313,6 +28577,28 @@
 			)
 		)
 		(property "Description" "Switch, single pole double throw"
+			(at 156.21 372.11 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "SS12SDP2"
+			(at 156.21 372.11 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" "NKK Switches"
 			(at 156.21 372.11 0)
 			(hide yes)
 			(show_name no)
@@ -29243,6 +29529,28 @@
 				)
 			)
 		)
+		(property "MPN" " USBLC6-2SC6"
+			(at 477.52 45.72 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" "STMicroelectronics"
+			(at 477.52 45.72 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "5"
 			(uuid "d0dcfeb8-704a-4b1b-b0fa-ebb4209c4c98")
 		)
@@ -29327,6 +29635,28 @@
 		)
 		(property "Description" "Vishay Siliconix Si4435DDY P-channel MOSFET, SO-8 (S=1,2,3 G=4 D=5-8). Order code e.g. SI4435DDY-T1-GE3"
 			(at 41.91 45.72 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "SI4435DDY-T1-GE3"
+			(at 41.91 45.72 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" " Vishay"
+			(at 41.91 45.72 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -29434,7 +29764,7 @@
 				)
 			)
 		)
-		(property "MPN" ""
+		(property "MPN" "SS-01GL2D"
 			(at 50.8 67.31 0)
 			(hide yes)
 			(show_name no)
@@ -29445,7 +29775,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "Aratas"
 			(at 50.8 67.31 0)
 			(hide yes)
 			(show_name no)
@@ -29997,7 +30327,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
 			(at 450.85 285.75 0)
 			(hide yes)
 			(show_name no)
@@ -30021,6 +30351,28 @@
 		)
 		(property "Description" "Resistor, small symbol"
 			(at 450.85 285.75 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "RC0805FR-071KL"
+			(at 450.85 285.75 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" "Yageo"
+			(at 450.85 285.75 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -30373,7 +30725,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
 			(at 524.51 95.25 0)
 			(hide yes)
 			(show_name no)
@@ -30396,6 +30748,28 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
+			(at 524.51 95.25 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "C0805C104K5RACTU"
+			(at 524.51 95.25 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" "KEMET"
 			(at 524.51 95.25 0)
 			(hide yes)
 			(show_name no)
@@ -31010,7 +31384,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
 			(at 548.64 95.25 0)
 			(hide yes)
 			(show_name no)
@@ -31033,6 +31407,28 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
+			(at 548.64 95.25 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "C0805C104K5RACTU"
+			(at 548.64 95.25 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" "KEMET"
 			(at 548.64 95.25 0)
 			(hide yes)
 			(show_name no)
@@ -31171,7 +31567,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
 			(at 217.17 370.84 0)
 			(hide yes)
 			(show_name no)
@@ -31194,6 +31590,28 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
+			(at 217.17 370.84 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "C0805C104K5RACTU"
+			(at 217.17 370.84 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" "KEMET"
 			(at 217.17 370.84 0)
 			(hide yes)
 			(show_name no)
@@ -31274,6 +31692,28 @@
 			)
 		)
 		(property "Description" "1A low-dropout linear regulator, fixed 3.3V output, VIN up to 5.5V, SOT-223 (tab = OUT)"
+			(at 64.77 138.43 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "TLV1117LV33DCYR"
+			(at 64.77 138.43 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" " Texas Instruments"
 			(at 64.77 138.43 0)
 			(hide yes)
 			(show_name no)
@@ -31960,7 +32400,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder"
 			(at 516.89 95.25 0)
 			(hide yes)
 			(show_name no)
@@ -31983,6 +32423,28 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
+			(at 516.89 95.25 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "C1206C335K4RACTU"
+			(at 516.89 95.25 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" "KEMET"
 			(at 516.89 95.25 0)
 			(hide yes)
 			(show_name no)
@@ -32469,7 +32931,7 @@
 				)
 			)
 		)
-		(property "MPN" "C1210C476M4PACTU"
+		(property "MPN" "C1210C474K5RACTU"
 			(at 68.58 50.8 0)
 			(hide yes)
 			(show_name no)
@@ -32540,7 +33002,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
 			(at 454.66 165.1 0)
 			(hide yes)
 			(show_name no)
@@ -32563,6 +33025,28 @@
 			)
 		)
 		(property "Description" "Resistor, small symbol"
+			(at 454.66 165.1 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "RC0805FR-0710KL"
+			(at 454.66 165.1 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" "Yageo"
 			(at 454.66 165.1 0)
 			(hide yes)
 			(show_name no)
@@ -32985,7 +33469,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
 			(at 521.97 95.25 0)
 			(hide yes)
 			(show_name no)
@@ -33008,6 +33492,28 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
+			(at 521.97 95.25 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "C0805C104K5RACTU"
+			(at 521.97 95.25 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" "KEMET"
 			(at 521.97 95.25 0)
 			(hide yes)
 			(show_name no)
@@ -33514,6 +34020,28 @@
 				)
 			)
 		)
+		(property "MPN" "SI4435DDY-T1-GE3"
+			(at 60.96 50.8 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" " Vishay"
+			(at 60.96 50.8 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "b46fcdeb-7bf7-43be-b5b5-e2ed05c00858")
 		)
@@ -33660,7 +34188,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
 			(at 529.59 107.95 0)
 			(hide yes)
 			(show_name no)
@@ -33683,6 +34211,28 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
+			(at 529.59 107.95 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "C0805C104K5RACTU"
+			(at 529.59 107.95 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" "KEMET"
 			(at 529.59 107.95 0)
 			(hide yes)
 			(show_name no)
@@ -33894,7 +34444,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
 			(at 487.68 151.13 0)
 			(hide yes)
 			(show_name no)
@@ -33918,6 +34468,28 @@
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
 			(at 487.68 151.13 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "C0805C270J5GACTU"
+			(at 487.68 151.13 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" "KEMET"
+			(at 487.68 151.13 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -36032,7 +36604,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_USB:USB_C_Receptacle_GCT_USB4105-xx-A_16P_TopMnt_Horizontal"
 			(at 450.85 45.72 0)
 			(hide yes)
 			(show_name no)
@@ -36055,6 +36627,28 @@
 			)
 		)
 		(property "Description" "USB 2.0-only 16P Type-C Receptacle connector"
+			(at 447.04 45.72 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "USB4105-GF-A"
+			(at 447.04 45.72 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" "GCT"
 			(at 447.04 45.72 0)
 			(hide yes)
 			(show_name no)
@@ -36159,7 +36753,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
 			(at 445.77 165.1 0)
 			(hide yes)
 			(show_name no)
@@ -36182,6 +36776,28 @@
 			)
 		)
 		(property "Description" "Resistor, small symbol"
+			(at 445.77 165.1 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "RC0805FR-0710KL"
+			(at 445.77 165.1 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" "Yageo"
 			(at 445.77 165.1 0)
 			(hide yes)
 			(show_name no)
@@ -36727,7 +37343,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
 			(at 544.83 95.25 0)
 			(hide yes)
 			(show_name no)
@@ -36750,6 +37366,28 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
+			(at 544.83 95.25 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "C0805C104K5RACTU"
+			(at 544.83 95.25 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" "KEMET"
 			(at 544.83 95.25 0)
 			(hide yes)
 			(show_name no)
@@ -36963,7 +37601,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
 			(at 521.97 285.75 0)
 			(hide yes)
 			(show_name no)
@@ -36987,6 +37625,28 @@
 		)
 		(property "Description" "Resistor, small symbol"
 			(at 521.97 285.75 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "RC0805FR-07680RL"
+			(at 521.97 285.75 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" "Yageo"
+			(at 521.97 285.75 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -37065,6 +37725,28 @@
 			)
 		)
 		(property "Description" "Switch, single pole double throw"
+			(at 156.21 351.79 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "SS12SDP2"
+			(at 156.21 351.79 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" "NKK Switches"
 			(at 156.21 351.79 0)
 			(hide yes)
 			(show_name no)
@@ -37873,7 +38555,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
 			(at 335.28 350.52 0)
 			(hide yes)
 			(show_name no)
@@ -37897,6 +38579,28 @@
 		)
 		(property "Description" "Resistor, small symbol"
 			(at 335.28 350.52 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "RC0805FR-0710KL"
+			(at 335.28 350.52 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" "Yageo"
+			(at 335.28 350.52 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -37988,7 +38692,7 @@
 				)
 			)
 		)
-		(property "MPN" ""
+		(property "MPN" "AE-BME280"
 			(at 210.82 50.8 0)
 			(hide yes)
 			(show_name no)
@@ -37999,7 +38703,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "秋月電子"
 			(at 210.82 50.8 0)
 			(hide yes)
 			(show_name no)
@@ -38070,7 +38774,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
 			(at 480.06 27.94 0)
 			(hide yes)
 			(show_name no)
@@ -38093,6 +38797,28 @@
 			)
 		)
 		(property "Description" "Resistor, small symbol"
+			(at 480.06 27.94 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "RC0805FR-075K1L"
+			(at 480.06 27.94 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" "Yageo"
 			(at 480.06 27.94 0)
 			(hide yes)
 			(show_name no)
@@ -38152,7 +38878,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
 			(at 60.96 60.96 0)
 			(hide yes)
 			(show_name no)
@@ -38175,6 +38901,28 @@
 			)
 		)
 		(property "Description" "Resistor, small symbol"
+			(at 60.96 60.96 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "RC0805FR-0710KL"
+			(at 60.96 60.96 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" "Yageo"
 			(at 60.96 60.96 0)
 			(hide yes)
 			(show_name no)
@@ -38233,7 +38981,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
 			(at 487.68 146.05 0)
 			(hide yes)
 			(show_name no)
@@ -38257,6 +39005,28 @@
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
 			(at 487.68 146.05 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "C0805C270J5GACTU"
+			(at 487.68 146.05 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" "KEMET"
+			(at 487.68 146.05 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -39188,7 +39958,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
 			(at 53.34 52.07 0)
 			(hide yes)
 			(show_name no)
@@ -39211,6 +39981,28 @@
 			)
 		)
 		(property "Description" "Resistor, small symbol"
+			(at 53.34 52.07 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "RC0805FR-07100KL"
+			(at 53.34 52.07 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" "Yageo"
 			(at 53.34 52.07 0)
 			(hide yes)
 			(show_name no)
@@ -39931,7 +40723,7 @@
 				)
 			)
 		)
-		(property "Value" "AT93C46D-PU"
+		(property "Value" "AT93C46DN-SH-T"
 			(at 457.962 217.678 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -40032,6 +40824,28 @@
 					(size 1.27 1.27)
 				)
 				(justify left top)
+			)
+		)
+		(property "MPN" "AT93C46DN-SH-T"
+			(at 448.31 199.39 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" "  Microchip Technology"
+			(at 448.31 199.39 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "1"
@@ -40644,7 +41458,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
 			(at 88.9 140.97 0)
 			(hide yes)
 			(show_name no)
@@ -40667,6 +41481,28 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
+			(at 88.9 140.97 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "C0805C104K5RACTU"
+			(at 88.9 140.97 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" "KEMET"
 			(at 88.9 140.97 0)
 			(hide yes)
 			(show_name no)
@@ -40724,7 +41560,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
 			(at 521.97 275.59 0)
 			(hide yes)
 			(show_name no)
@@ -40748,6 +41584,28 @@
 		)
 		(property "Description" "Resistor, small symbol"
 			(at 521.97 275.59 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "RC0805FR-07680RL"
+			(at 521.97 275.59 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" "Yageo"
+			(at 521.97 275.59 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -41273,7 +42131,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
 			(at 450.85 275.59 0)
 			(hide yes)
 			(show_name no)
@@ -41297,6 +42155,28 @@
 		)
 		(property "Description" "Resistor, small symbol"
 			(at 450.85 275.59 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" " RC0805FR-073K3L"
+			(at 450.85 275.59 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" "Yageo"
+			(at 450.85 275.59 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -42240,7 +43120,7 @@
 				)
 			)
 		)
-		(property "MPN" ""
+		(property "MPN" "AE-BNO055"
 			(at 287.02 45.72 0)
 			(hide yes)
 			(show_name no)
@@ -42251,7 +43131,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "秋月電子"
 			(at 287.02 45.72 0)
 			(hide yes)
 			(show_name no)
@@ -42328,7 +43208,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
 			(at 501.65 132.08 0)
 			(hide yes)
 			(show_name no)
@@ -42351,6 +43231,28 @@
 			)
 		)
 		(property "Description" "Resistor, small symbol"
+			(at 501.65 132.08 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "RC0805FR-0712KL"
+			(at 501.65 132.08 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" "Yageo"
 			(at 501.65 132.08 0)
 			(hide yes)
 			(show_name no)
@@ -43116,7 +44018,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
 			(at 463.55 165.1 0)
 			(hide yes)
 			(show_name no)
@@ -43139,6 +44041,28 @@
 			)
 		)
 		(property "Description" "Resistor, small symbol"
+			(at 463.55 165.1 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "RC0805FR-0710KL"
+			(at 463.55 165.1 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" "Yageo"
 			(at 463.55 165.1 0)
 			(hide yes)
 			(show_name no)
@@ -43794,7 +44718,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
 			(at 541.02 95.25 0)
 			(hide yes)
 			(show_name no)
@@ -43817,6 +44741,28 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
+			(at 541.02 95.25 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "C0805C104K5RACTU"
+			(at 541.02 95.25 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" "KEMET"
 			(at 541.02 95.25 0)
 			(hide yes)
 			(show_name no)
@@ -44418,6 +45364,28 @@
 				(justify left top)
 			)
 		)
+		(property "MPN" "NMUX27518EPW-Q100J"
+			(at 254 350.52 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" "Nexperia"
+			(at 254 350.52 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "5"
 			(uuid "6b894331-c7da-430c-b11c-2b6e8602b0e2")
 		)
@@ -44532,7 +45500,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
 			(at 483.87 27.94 0)
 			(hide yes)
 			(show_name no)
@@ -44555,6 +45523,28 @@
 			)
 		)
 		(property "Description" "Resistor, small symbol"
+			(at 483.87 27.94 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "RC0805FR-075K1L"
+			(at 483.87 27.94 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" "Yageo"
 			(at 483.87 27.94 0)
 			(hide yes)
 			(show_name no)
@@ -45250,7 +46240,7 @@
 				)
 			)
 		)
-		(property "MPN" ""
+		(property "MPN" "E220-900T22S(JP)-RV2"
 			(at 114.3 337.82 90)
 			(hide yes)
 			(show_name no)
@@ -45261,7 +46251,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "EBYTE"
 			(at 114.3 337.82 90)
 			(hide yes)
 			(show_name no)
@@ -46455,6 +47445,28 @@
 				)
 			)
 		)
+		(property "MPN" "FT4232HL-REEL"
+			(at 524.51 170.18 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" "FTDI"
+			(at 524.51 170.18 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "17"
 			(uuid "f3da09e6-90ab-4d60-aaab-025d8078c609")
 		)
@@ -46938,6 +47950,28 @@
 				(justify left top)
 			)
 		)
+		(property "MPN" "XC8114AA01PR-G"
+			(at 113.03 172.72 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" "Torex"
+			(at 113.03 172.72 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "01f11ad3-a4c5-4bf3-8580-48ea7bf58d93")
 		)
@@ -47157,7 +48191,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Crystal:Crystal_SMD_HC49-SD_HandSoldering"
 			(at 490.22 148.59 0)
 			(hide yes)
 			(show_name no)
