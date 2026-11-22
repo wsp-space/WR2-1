@@ -7,7 +7,7 @@
 	(title_block
 		(title "WR2-1 Avionics PCB")
 		(date "2026-11-12")
-		(rev "Rev.0.1")
+		(rev "Rev.0.2")
 		(company "Wakayama University Space Project")
 		(comment 1 "Designed by Koki TERAMOTO")
 	)
@@ -23979,7 +23979,7 @@
 				)
 			)
 		)
-		(property "MPN" "LTST-C170TBKT "
+		(property "MPN" "LTST-C170TBKT"
 			(at 471.17 285.75 0)
 			(hide yes)
 			(show_name no)
@@ -29529,7 +29529,7 @@
 				)
 			)
 		)
-		(property "MPN" " USBLC6-2SC6"
+		(property "MPN" "USBLC6-2SC6"
 			(at 477.52 45.72 0)
 			(hide yes)
 			(show_name no)
@@ -29655,7 +29655,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" " Vishay"
+		(property "Manufacturer" "Vishay"
 			(at 41.91 45.72 90)
 			(hide yes)
 			(show_name no)
@@ -31235,7 +31235,7 @@
 				)
 			)
 		)
-		(property "MPN" "LTST-C170KGKT "
+		(property "MPN" "LTST-C170KGKT"
 			(at 542.29 275.59 0)
 			(hide yes)
 			(show_name no)
@@ -31713,7 +31713,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" " Texas Instruments"
+		(property "Manufacturer" "Texas Instruments"
 			(at 64.77 138.43 0)
 			(hide yes)
 			(show_name no)
@@ -34031,7 +34031,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" " Vishay"
+		(property "Manufacturer" "Vishay"
 			(at 60.96 50.8 90)
 			(hide yes)
 			(show_name no)
@@ -40837,7 +40837,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "  Microchip Technology"
+		(property "Manufacturer" "Microchip Technology"
 			(at 448.31 199.39 0)
 			(hide yes)
 			(show_name no)
@@ -44864,7 +44864,7 @@
 				)
 			)
 		)
-		(property "MPN" "LTST-C170KSKT "
+		(property "MPN" "LTST-C170KSKT"
 			(at 542.29 285.75 0)
 			(hide yes)
 			(show_name no)
