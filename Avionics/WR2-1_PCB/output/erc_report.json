@@ -1,7 +1,7 @@
 {
     "$schema": "https://schemas.kicad.org/erc.v1.json",
     "coordinate_units": "mm",
-    "date": "2026-11-22T19:00:02",
+    "date": "2026-11-23T11:31:24",
     "ignored_checks": [
         {
             "description": "Global label only appears once in the schematic",
@@ -365,7 +365,7 @@
                         {
                             "description": "Symbol #PWR031 Pin 1 [Power input, Line]",
                             "pos": {
-                                "x": 3.6703,
+                                "x": 3.5687,
                                 "y": 0.5461
                             },
                             "uuid": "2c9741dd-cc8d-44db-8ce0-899ef82e79fa"
@@ -650,12 +650,12 @@
                             "uuid": "e25c01cd-d430-410c-ae65-091c55901a93"
                         },
                         {
-                            "description": "Symbol #PWR0104 Pin 1 [Power input, Line]",
+                            "description": "Symbol #PWR0105 Pin 1 [Power input, Line]",
                             "pos": {
-                                "x": 1.2827,
-                                "y": 2.5654
+                                "x": 0.7874,
+                                "y": 2.9337
                             },
-                            "uuid": "6e504557-25d3-4183-b3a9-996e25643f06"
+                            "uuid": "f2cedef7-c11d-43d3-bf67-94e75d2077bc"
                         }
                     ],
                     "severity": "warning",
