@@ -1,0 +1,383 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <Placemark>
+      <name>Parachute - Wind 0.0 m/s</name>
+      <description>Phase: Parachute, Wind Speed: 0.0 m/s</description>
+      <Style>
+        <LineStyle><color>ff00ffff</color><width>2</width></LineStyle>
+        <PolyStyle><fill>0</fill></PolyStyle>
+      </Style>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>
+              135.09043753935742,34.285297455820555,89.95594442542642
+              135.09043753935742,34.285297455820555,89.95594442542642
+              135.09043753935742,34.285297455820555,89.95594442542642
+              135.09043753935742,34.285297455820555,89.95594442542642
+              135.09043753935742,34.285297455820555,89.95594442542642
+              135.09043753935742,34.285297455820555,89.95594442542642
+              135.09043753935742,34.285297455820555,89.95594442542642
+              135.09043753935742,34.285297455820555,89.95594442542642
+              135.09043753935742,34.285297455820555,89.95594442542642
+              135.09043753935742,34.285297455820555,89.95594442542642
+              135.09043753935742,34.285297455820555,89.95594442542642
+              135.09043753935742,34.285297455820555,89.95594442542642
+              135.09043753935742,34.285297455820555,89.95594442542642
+              135.09043753935742,34.285297455820555,89.95594442542642
+              135.09043753935742,34.285297455820555,89.95594442542642
+              135.09043753935742,34.285297455820555,89.95594442542642
+              135.09043753935742,34.285297455820555,89.95594442542642
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>Parachute - Wind 1.0 m/s</name>
+      <description>Phase: Parachute, Wind Speed: 1.0 m/s</description>
+      <Style>
+        <LineStyle><color>ff00dfff</color><width>2</width></LineStyle>
+        <PolyStyle><fill>0</fill></PolyStyle>
+      </Style>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>
+              135.09006641020508,34.28489728150877,89.66265546530485
+              135.08990966831672,34.28504544599783,89.81798503641039
+              135.08983317945516,34.28523229430471,89.94951214827597
+              135.08984875965552,34.28542932710019,89.18744552787393
+              135.08995427552495,34.285606364750706,89.21834408771247
+              135.0901335317711,34.285736266988216,89.1874465700239
+              135.0903590532272,34.285799103389024,89.94951373618096
+              135.09059623170185,34.285785451701855,89.81798645108938
+              135.09080885234678,34.28569751371884,89.66265615727752
+              135.09096461485495,34.28554888726637,89.50675788521767
+              135.09104003018356,34.28536229224735,89.37397021893412
+              135.09102383040104,34.28516607621071,89.28488837461919
+              135.09091861281996,34.284989942851574,89.25353797990829
+              135.09074033256636,34.28486051324571,89.2848888784647
+              135.09051592206345,34.28479739113468,89.3739708205685
+              135.09027931584714,34.28481024781041,89.50675801746547
+              135.09006641020508,34.28489728150877,89.66265546530485
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>Parachute - Wind 2.0 m/s</name>
+      <description>Phase: Parachute, Wind Speed: 2.0 m/s</description>
+      <Style>
+        <LineStyle><color>ff00bfff</color><width>2</width></LineStyle>
+        <PolyStyle><fill>0</fill></PolyStyle>
+      </Style>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>
+              135.0896994451684,34.28450142759263,89.60792816989124
+              135.08938663698052,34.2847955819914,89.92947400733829
+              135.08923320401925,34.2851674686042,89.34954981971532
+              135.08926374459986,34.28556027100039,89.5285213869065
+              135.08947394499802,34.285913394527086,89.59098991565406
+              135.08983156014358,34.286172290958056,89.52852500323206
+              135.0902812913753,34.286297146514585,89.34955515153706
+              135.09075365932944,34.28626901721826,89.9294783482328
+              135.0911761979782,34.28609312759916,89.60792954266071
+              135.09148495294377,34.285797040368074,89.2831301400438
+              135.09163361278743,34.28542613961608,89.85547356307507
+              135.09160077211976,34.2850367722864,89.66904014255852
+              135.09139182771983,34.28468744920923,89.60344975627959
+              135.0910383140265,34.28443054045816,89.66904264967889
+              135.0905931767349,34.28430472789826,89.85547688882798
+              135.09012318825128,34.284329285707805,89.28313192166388
+              135.0896994451684,34.28450142759263,89.60792816989124
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>Parachute - Wind 3.0 m/s</name>
+      <description>Phase: Parachute, Wind Speed: 3.0 m/s</description>
+      <Style>
+        <LineStyle><color>ff009fff</color><width>2</width></LineStyle>
+        <PolyStyle><fill>0</fill></PolyStyle>
+      </Style>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>
+              135.08934124591278,34.28411476408143,89.71130590327084
+              135.08887480825229,34.28455083102574,89.36681844107807
+              135.0886451702905,34.28510375227894,89.79177333507687
+              135.08868923408767,34.28568876543617,89.22385690081865
+              135.08900202658327,34.28621504321427,89.32251583784819
+              135.0895351193928,34.28660050790119,89.22386453673244
+              135.09020528353363,34.28678532287258,89.79178443644196
+              135.09090799156485,34.28674228802662,89.36682711727917
+              135.09153507914485,34.286479360465414,89.71130793634802
+              135.09199498997663,34.28603900687084,89.20264117699116
+              135.09221431549173,34.285487759010024,89.62214898783714
+              135.0921647447364,34.284909899293595,89.3349892841652
+              135.09185447438156,34.284391707235585,89.23443565517664
+              135.09133014566868,34.28401035178318,89.33499518409371
+              135.09066973216298,34.28382296987416,89.62215702794492
+              135.0899716338039,34.28385817215837,89.202646038495
+              135.08934124591278,34.28411476408143,89.71130590327084
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>Parachute - Wind 4.0 m/s</name>
+      <description>Phase: Parachute, Wind Speed: 4.0 m/s</description>
+      <Style>
+        <LineStyle><color>ff007fff</color><width>2</width></LineStyle>
+        <PolyStyle><fill>0</fill></PolyStyle>
+      </Style>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>
+              135.08899547409726,34.28373928381476,89.93879492487758
+              135.08837943383196,34.28431240097819,89.77388927154243
+              135.088074473186,34.28504085371312,89.50291184522212
+              135.0881313678835,34.28581295159359,89.89039373677224
+              135.08854357429112,34.286508080581626,89.17688002064824
+              135.08924794359513,34.28701646574833,89.89040669985116
+              135.09013274794503,34.28725937754128,89.50293053500354
+              135.09105916322773,34.28720074090493,89.77390352357179
+              135.09188410989287,34.28685276459994,89.93879757449031
+              135.0924836387653,34.286271740912575,89.2512498665601
+              135.09277382912728,34.28554699805573,89.52018213272095
+              135.09270732789435,34.28478776051461,89.98874335270375
+              135.09229944306983,34.284107262103596,89.85603261459619
+              135.09161099440814,34.28360611659158,89.98875386361033
+              135.0907436437989,34.283358824156636,89.5201966278255
+              135.08982536832482,34.283406582537225,89.2512590335682
+              135.08899547409726,34.28373928381476,89.93879492487758
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>Parachute - Wind 5.0 m/s</name>
+      <description>Phase: Parachute, Wind Speed: 5.0 m/s</description>
+      <Style>
+        <LineStyle><color>ff005fff</color><width>2</width></LineStyle>
+        <PolyStyle><fill>0</fill></PolyStyle>
+      </Style>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>
+              135.0886655630942,34.28338043574094,89.4768538447097
+              135.08790580316358,34.28408391017422,89.4743249276653
+              135.08752799151065,34.28498022748051,89.34306419547647
+              135.0875989447011,34.285931680039056,89.83014642167836
+              135.08810611349827,34.286787696916946,90.0036751050502
+              135.0889736201184,34.28741339754065,89.83016576524824
+              135.09006374815516,34.28771341868169,89.34309198800474
+              135.0912043111447,34.287639206514996,89.47434578184038
+              135.09221782023167,34.28720919258664,89.47685706242919
+              135.09295229064222,34.28649360417219,89.477129467763
+              135.0933065261404,34.2856032801033,89.6151012526825
+              135.0932236998323,34.28467145424279,90.00038790889084
+              135.09272286514945,34.28383658729524,89.84002545941621
+              135.09187835009104,34.283221424230284,90.00040402822196
+              135.09081414642225,34.28291695420861,89.6151236416772
+              135.08968665563623,34.282973818600816,89.47714402340353
+              135.0886655630942,34.28338043574094,89.4768538447097
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>Parachute - Wind 6.0 m/s</name>
+      <description>Phase: Parachute, Wind Speed: 6.0 m/s</description>
+      <Style>
+        <LineStyle><color>ff003fff</color><width>2</width></LineStyle>
+        <PolyStyle><fill>0</fill></PolyStyle>
+      </Style>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>
+              135.08835446764456,34.283041454082365,89.2513070134446
+              135.0874584613897,34.28386753519289,89.39075320865959
+              135.08701117129505,34.28492245443798,89.3809690149501
+              135.08708987077205,34.286044128357744,89.95311395078897
+              135.08769012113694,34.28705358787605,89.30915669631213
+              135.08871257265122,34.28779319396838,89.95314060430974
+              135.08999899951783,34.28814292746565,89.3810070687905
+              135.0913420613862,34.288053481080595,89.39078143425286
+              135.0925331975747,34.28754544683195,89.25131074525416
+              135.09339892625607,34.28670368740314,89.96055480651557
+              135.0938079878708,34.28565616689501,89.98337600193918
+              135.0937096430918,34.28456194621961,89.44752416107804
+              135.09312138231496,34.283581830151654,89.26459073089063
+              135.09213001143283,34.28285941300508,89.44754664506763
+              135.09088062250336,34.282501018000275,89.98340737540275
+              135.0895560391566,34.28256173293741,89.96057564392686
+              135.08835446764456,34.283041454082365,89.2513070134446
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>Parachute - Wind 7.0 m/s</name>
+      <description>Phase: Parachute, Wind Speed: 7.0 m/s</description>
+      <Style>
+        <LineStyle><color>ff001fff</color><width>2</width></LineStyle>
+        <PolyStyle><fill>0</fill></PolyStyle>
+      </Style>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>
+              135.088062577086,34.28272106735022,89.34325308538973
+              135.087041273965,34.28366515084362,89.5983070647344
+              135.08652836837723,34.284868021215395,89.69160119909793
+              135.08661563315164,34.28614901957879,89.49097351916134
+              135.08729810805139,34.28730414909952,89.72613669745624
+              135.0884692242982,34.288146963442514,89.49100802838802
+              135.08993904871056,34.28854428402015,89.69165029283613
+              135.09147121791466,34.288439983340744,89.59834315814078
+              135.09283182227847,34.28786153950444,89.34325724560767
+              135.09381134182473,34.28689853358497,89.92957483883947
+              135.0942746616005,34.28570530559498,89.84877274930477
+              135.0941675612103,34.28445828559824,89.25758877396584
+              135.09349664427074,34.283341936596784,89.90913756936789
+              135.09236770054878,34.28251839724087,89.25761821586639
+              135.09094257625557,34.2821139567572,89.84881384111941
+              135.08943442861485,34.282181001852344,89.92960245721042
+              135.088062577086,34.28272106735022,89.34325308538973
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>Parachute - Wind 8.0 m/s</name>
+      <description>Phase: Parachute, Wind Speed: 8.0 m/s</description>
+      <Style>
+        <LineStyle><color>ff0000ff</color><width>2</width></LineStyle>
+        <PolyStyle><fill>0</fill></PolyStyle>
+      </Style>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>
+              135.08779539915358,34.28242879563327,89.82790325116366
+              135.08665200690757,34.28347462184653,89.32935486920178
+              135.08607761450304,34.284816007154205,89.49877502117306
+              135.08617720632154,34.286245723137434,89.36450685095042
+              135.08693769673758,34.2875345091348,89.62786609865725
+              135.08824455939592,34.288474085491856,89.36454952601343
+              135.08988446585815,34.288919303110234,89.49883569218218
+              135.09159369741903,34.28880105138365,89.32939915917814
+              135.09310401202572,34.288150618408906,89.82790779974312
+              135.09419742263756,34.28707963595492,89.45936497114599
+              135.09471117836677,34.285750446479774,89.2977465055883
+              135.09458369723538,34.284364423966196,89.51326125208288
+              135.09383838377383,34.28312347073079,89.3035277267918
+              135.09258330216696,34.28220840841091,89.51329783443362
+              135.09100148188804,34.28175211781239,89.29779786802828
+              135.08932209899845,34.28182491578679,89.4593998119235
+              135.08779539915358,34.28242879563327,89.82790325116366
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>Magnetic North</name>
+      <description>Magnetic north from the launch point (declination 7.4° W)</description>
+      <ExtendedData><Data name="annotation"><value>true</value></Data></ExtendedData>
+      <Style><LineStyle><color>ff15ccfa</color><width>3</width></LineStyle></Style>
+      <LineString><tessellate>1</tessellate><coordinates>
+        135.09059,34.2852,0 135.08990720218978,34.28956352799195,0
+      </coordinates></LineString>
+    </Placemark>
+    <Placemark>
+      <name>MN (7.4° W)</name>
+      <ExtendedData><Data name="annotation"><value>true</value></Data></ExtendedData>
+      <Style><IconStyle><scale>0</scale></IconStyle><LabelStyle><color>ff15ccfa</color><scale>1.1</scale></LabelStyle></Style>
+      <Point><coordinates>135.08990720218978,34.28956352799195,0</coordinates></Point>
+    </Placemark>
+    <Folder>
+      <name>Parachute - Wind from Magnetic North</name>
+      <Placemark>
+        <name>0.0 m/s</name>
+        <description>Parachute landing, wind 0.0 m/s from magnetic north</description>
+        <ExtendedData><Data name="annotation"><value>true</value></Data></ExtendedData>
+        <Style><IconStyle><scale>0.8</scale><Icon><href>http://maps.google.com/mapfiles/kml/shapes/triangle.png</href></Icon></IconStyle><LabelStyle><scale>0.8</scale></LabelStyle></Style>
+        <Point><coordinates>135.09043753935742,34.285297455820555,89.95594442542642</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>1.0 m/s</name>
+        <description>Parachute landing, wind 1.0 m/s from magnetic north</description>
+        <ExtendedData><Data name="annotation"><value>true</value></Data></ExtendedData>
+        <Style><IconStyle><scale>0.8</scale><Icon><href>http://maps.google.com/mapfiles/kml/shapes/triangle.png</href></Icon></IconStyle><LabelStyle><scale>0.8</scale></LabelStyle></Style>
+        <Point><coordinates>135.09051592206345,34.28479739113468,89.3739708205685</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>2.0 m/s</name>
+        <description>Parachute landing, wind 2.0 m/s from magnetic north</description>
+        <ExtendedData><Data name="annotation"><value>true</value></Data></ExtendedData>
+        <Style><IconStyle><scale>0.8</scale><Icon><href>http://maps.google.com/mapfiles/kml/shapes/triangle.png</href></Icon></IconStyle><LabelStyle><scale>0.8</scale></LabelStyle></Style>
+        <Point><coordinates>135.0905931767349,34.28430472789826,89.85547688882798</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>3.0 m/s</name>
+        <description>Parachute landing, wind 3.0 m/s from magnetic north</description>
+        <ExtendedData><Data name="annotation"><value>true</value></Data></ExtendedData>
+        <Style><IconStyle><scale>0.8</scale><Icon><href>http://maps.google.com/mapfiles/kml/shapes/triangle.png</href></Icon></IconStyle><LabelStyle><scale>0.8</scale></LabelStyle></Style>
+        <Point><coordinates>135.09066973216298,34.28382296987416,89.62215702794492</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>4.0 m/s</name>
+        <description>Parachute landing, wind 4.0 m/s from magnetic north</description>
+        <ExtendedData><Data name="annotation"><value>true</value></Data></ExtendedData>
+        <Style><IconStyle><scale>0.8</scale><Icon><href>http://maps.google.com/mapfiles/kml/shapes/triangle.png</href></Icon></IconStyle><LabelStyle><scale>0.8</scale></LabelStyle></Style>
+        <Point><coordinates>135.0907436437989,34.283358824156636,89.5201966278255</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>5.0 m/s</name>
+        <description>Parachute landing, wind 5.0 m/s from magnetic north</description>
+        <ExtendedData><Data name="annotation"><value>true</value></Data></ExtendedData>
+        <Style><IconStyle><scale>0.8</scale><Icon><href>http://maps.google.com/mapfiles/kml/shapes/triangle.png</href></Icon></IconStyle><LabelStyle><scale>0.8</scale></LabelStyle></Style>
+        <Point><coordinates>135.09081414642225,34.28291695420861,89.6151236416772</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>6.0 m/s</name>
+        <description>Parachute landing, wind 6.0 m/s from magnetic north</description>
+        <ExtendedData><Data name="annotation"><value>true</value></Data></ExtendedData>
+        <Style><IconStyle><scale>0.8</scale><Icon><href>http://maps.google.com/mapfiles/kml/shapes/triangle.png</href></Icon></IconStyle><LabelStyle><scale>0.8</scale></LabelStyle></Style>
+        <Point><coordinates>135.09088062250336,34.282501018000275,89.98340737540275</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>7.0 m/s</name>
+        <description>Parachute landing, wind 7.0 m/s from magnetic north</description>
+        <ExtendedData><Data name="annotation"><value>true</value></Data></ExtendedData>
+        <Style><IconStyle><scale>0.8</scale><Icon><href>http://maps.google.com/mapfiles/kml/shapes/triangle.png</href></Icon></IconStyle><LabelStyle><scale>0.8</scale></LabelStyle></Style>
+        <Point><coordinates>135.09094257625557,34.2821139567572,89.84881384111941</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>8.0 m/s</name>
+        <description>Parachute landing, wind 8.0 m/s from magnetic north</description>
+        <ExtendedData><Data name="annotation"><value>true</value></Data></ExtendedData>
+        <Style><IconStyle><scale>0.8</scale><Icon><href>http://maps.google.com/mapfiles/kml/shapes/triangle.png</href></Icon></IconStyle><LabelStyle><scale>0.8</scale></LabelStyle></Style>
+        <Point><coordinates>135.09100148188804,34.28175211781239,89.29779786802828</coordinates></Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>
